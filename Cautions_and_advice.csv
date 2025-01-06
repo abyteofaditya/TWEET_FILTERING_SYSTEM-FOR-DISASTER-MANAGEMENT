@@ -1,0 +1,2287 @@
+_unit_id,_golden,_unit_state,trusted_judgements,_last_judgment_at,source,type_of_advice_or_caution,confidence_score,what,when,where,category,source_gold,Actual_unr_tweets,tweet,type,type_of_advice_or_caution_gold,user,what_gold,when_gold,where_gold
+227175857,TRUE,golden,8,12/8/2012 19:09,"#sandy
+N/A
+N/A
+n/a
+N/A
+
+N/A
+n/a",A hurricane sighting has been reported,0.7629,"Storm just now hitting Jersey
+All bridges closing in NYC & Jersey
+All bridges closing
+Storm
+All bridges closing in NYC & Jersey
+Storm just now hitting Jersey
+Storm just now hitting Jersey
+Storm just now hitting","now
+now
+just now
+n/a
+N/A
+now
+now
+just now","NYC & Jersey
+NYC & Jersey
+Milford
+Jersey
+NYC & Jersey
+Jersey
+Jersey
+NYC & Jersey",Informative (Direct or Indirect),,Storm just now hitting Jersey...Milford is feeling it big time. All bridges closing in NYC & Jersey. Wow... #sandy,Storm just now hitting Jersey...Milford is feeling it big time. All bridges closing in NYC & Jersey. Wow... #sandy,Caution and advice,A hurricane sighting has been reported,beball,"hitting Jersey
+All bridges closing in NYC & Jersey
+Storm just now hitting Jersey
+Storm",now,"NYC
+Jersey
+Jersey
+NYC & Jersey"
+227175859,FALSE,golden,1,11/25/2012 17:31,n/a,Other,1,Hurricane Sandy is going to fill the subways with water,n/a,NYC,Informative (Direct or Indirect),,Hurricane Sandy is going to fill the subways with water. There will literally be giant underground rivers running beneath NYC. #HolyShit,RT @JessieWessie33: Hurricane Sandy is going to fill the subways with water. There will literally be giant underground rivers running beneath NYC. #HolyShit,Caution and advice,Other,britthanus, fill the subways with water,,NYC
+227175860,TRUE,golden,34,12/10/2012 6:05,"
+n/a
+
+#Sandy
+n/a
+n/a
+#Sandy
+#Sandy
+
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+#Sandy
+
+N/A
+
+
+
+n/a
+n/a
+n/a
+
+N/A
+N/A
+N/A
+n/a
+
+
+N/A",A hurricane sighting has been reported,0.7427,"NYC is now impacted by hurricane
+impacted
+hurricane #Sandy
+impacted by hurricane
+hurricane #Sandy
+hurricane
+impacted by hurricane
+impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted
+hurricane
+hurricane #Sandy
+NYC is now impacted by hurricane
+impacted by hurricane
+impacted by hurricane
+hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+hurricane
+hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+NYC is now impacted by hurricane
+hurricane #Sandy
+impacted by hurricane
+Omg NYC is now impacted by hurricane
+impacted by hurricane
+NYC is now impacted by hurricane","now
+now
+
+now
+n/a
+n/a
+N/A
+now
+
+now
+now
+now
+now
+now
+
+now
+N/A
+""N/A""
+
+now
+
+now
+now
+n/a
+now
+now
+
+N/A
+now
+now
+n/a
+
+now
+N/A","NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC",Informative (Direct or Indirect),,Omg NYC is now impacted by hurricane #Sandy,Omg NYC is now impacted by hurricane #Sandy,Caution and advice,A hurricane sighting has been reported,BuniYani,"Impacted
+NYC is now impacted by hurricane
+impacted by hurricane
+hurricane",Now,"NYC
+NYC"
+227175862,TRUE,golden,31,12/10/2012 6:08,"n/a
+
+#Sandy
+#Sandy
+N/A
+
+
+
+
+N/A
+
+N/A
+N/A
+
+
+n/a
+n/a
+N/a
+na
+n/a
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+n/a
+
+N/A",Other,0.9531,"stock market closing
+stock market closing for bad weather
+stock market closing
+stock market closing
+stock market closing
+stock market closing for bad weather
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing
+stock market closing for bad weather
+stock market closing for bad weather
+bad weather #sandy
+closing
+stock market closing
+stock market closing for bad weather
+First time since 1888 stock market closing for bad weather
+stock market closing for bad weather
+First time since 1888 stock market closing for bad weather
+stock market closing for bad weather
+stock market closing
+stock market closing
+stock market closing
+stock market closing for bad weather
+stock market closing
+First time since 1888 stock market closing for bad weather","n/a
+
+na
+N/A
+N/A
+
+1988
+
+
+N/A
+
+N/A
+since 1888
+since 1888
+n/a
+First time since 1888
+First time since 1888
+N/a
+na
+n/a
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+First time since 1888
+since 1888
+N/A","stock market
+n/a
+na
+N/A
+N/A
+N/A
+n/a
+n/a
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+n/a
+stock market
+n/a
+Stock market
+stock market
+stock market
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+n/a
+N/A
+N/A",Informative (Direct or Indirect),,First time since 1888 stock market closing for bad weather #Sandy,First time since 1888 stock market closing for bad weather #Sandy,Caution and advice,Other,feverplay_xo,"stock market closing
+stock market closing for bad weather
+stock market closing
+First time since 1888 stock market closing for bad weather
+bad weather","N/A
+n/a","N/A
+n/a"
+227175867,FALSE,golden,1,11/25/2012 17:24,n/a,A hurricane sighting has been reported,1,Hurricane Sandy,n/a,NYC,Informative (Direct or Indirect),,Hurricane Sandy or else Frankestorm heading toward NYC http://t.co/OPLYDC2D,RT @KateNinaA: Hurricane Sandy or else Frankestorm heading toward NYC http://t.co/OPLYDC2D,Caution and advice,"A hurricane sighting has been reported
+Other",LuciiAgudo,Hurricane Sandy or else Frankestorm,,heading toward NYC
+227175868,FALSE,golden,1,11/25/2012 17:17,,Other,1,NYC closing bridges and tunnels,at 7pm,NYC,Informative (Direct or Indirect),,NYC closing bridges and tunnels at 7pm #Sandy,NYC closing bridges and tunnels at 7pm #Sandy,Caution and advice,Other,MikeBeam,NYC closing bridges and tunnels,at 7pm,
+227175869,TRUE,golden,22,12/10/2012 6:12,"#Sandy
+n/a
+#Sandy
+N/A
+
+
+N/A
+N/A
+
+
+n/a
+n/a
+na
+N/A
+N/A
+
+N/A
+n/a
+
+
+
+N/A",Other,1,"water coming out of your faucet
+water
+water coming out of your faucet
+If you have water coming out of your faucet it is safe to drink
+If you have water coming out of your faucet it is safe to drink
+water coming out of your faucet
+If you have water coming out of your faucet it is safe to drink
+water coming out of your faucet
+water coming out of your faucet it is safe to drink
+If you have water coming out of your faucet it is safe to drink
+safe water
+safe water
+it is safe to drink
+If you have water coming out of your faucet it is safe to drink
+If you have water coming out
+water coming out of your faucet
+water coming out of your faucet
+water coming out of your faucet it is safe to drink
+If you have water coming out of your faucet it is safe to drink
+water coming out of your faucet
+water coming out of your faucet
+water coming out of your faucet it is safe to drink","na
+n/a
+N/A
+N/A
+
+
+N/A
+N/A
+
+
+n/a
+n/a
+na
+N/A
+N/A
+
+N/A
+n/a
+
+
+
+N/A","na
+n/a
+N/A
+N/A
+n/a
+n/a
+N/A
+N/A
+N/A
+N/A
+coming out of your faucet
+coming out of your faucet
+out of your faucet
+N/A
+N/A
+N/A
+N/A
+n/a
+N/A
+N/A
+N/A
+N/A",Informative (Direct or Indirect),,If you have water coming out of your faucet it is safe to drink. #Sandy,RT @NYCMayorsOffice: If you have water coming out of your faucet it is safe to drink. #Sandy,Caution and advice,Other,nathancreitz,water coming out of your faucet,,
+227175874,FALSE,golden,1,11/25/2012 17:24,n/a,Other,1,Find open pharmacies,n/a,NYC area,Informative (Direct or Indirect),@RxResponse @WPIX #PSRT #MedsInDisaster,Find open pharmacies after #Frankenstorm #Sandy in the NYC area @RxResponse @WPIX #PSRT #MedsInDisaster,Find open pharmacies after #Frankenstorm #Sandy in the NYC area @RxResponse @WPIX #PSRT #MedsInDisaster,Caution and advice,Other,RxResponse,"open pharmacies
+Find open pharmacies
+pharmacies
+Find open pharmacies after #Frankenstorm #Sandy in the NYC area
+Sandy",after #Frankenstorm #Sandy,"in the NYC area
+NYC
+in the NYC area
+the NYC area"
+227175875,TRUE,golden,29,12/10/2012 6:08,"NYGovCuomo
+.@NYGovCuomo
+@NYGovCuomo
+n/a
+@NYGovCuomo
+@NYGovCuomo
+NYGovCuomo
+NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo
+NYGovCuomo
+NYGovCuomo
+NYGovCuomo
+@NYGovCuomo
+.@NYGovCuomo
+@NYGovCuomo
+NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo
+GovCuomo
+N/A
+NYGovCuomo
+NYGovCuomo
+
+@NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo",Other,0.93,"closing of NYC bridges
+closing of NYC bridges
+GovCuomo orders closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+orders closing of NYC bridges
+orders closing of NYC bridges
+@NYGovCuomo orders closing of NYC bridges
+NYGovCuomo orders closing of NYC bridges
+closing of NYC bridges.
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges","close by 7pm
+7pm
+7pm
+n/a
+7pm
+by 7pm
+7pm
+7pm
+7pm
+7pm
+7pm
+7pm
+7pm
+Bridges must close by 7pm
+by 7pm
+by 7pm
+by 7pm
+7pm
+7pm
+7pm
+7pm
+
+N/A
+7pm
+7pm
+7pm
+7pm
+7pm
+7pm","NYC
+#NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+N/A
+N/A
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC",Informative (Direct or Indirect),"@NYGovCuomo 
+NYGovCuomo",.@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,RT @weatherchannel: .@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,Caution and advice,Other,saraha64,"closing of NYC bridges
+closing of NYC bridges
+orders closing of NYC bridges
+NYGovCuomo orders closing of NYC bridges"," by 7pm
+7pm
+close by 7pm
+7pm.","#NYC
+NYC
+NYC bridges
+N/A"
+227175880,TRUE,golden,93,12/10/2012 14:47,"
+n/a
+
+na
+n/a
+n/a
+N/A
+N/A
+
+
+N/A
+N/A
+N/A
+
+
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+
+
+
+
+n/a
+
+
+
+
+n/a
+n/a
+NA
+na
+n/a
+
+N/A
+
+N/A
+N/A
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+
+
+N/A
+N/A
+n/A
+n/A
+n/A
+n/A
+n/A
+n/A
+n/A
+n/A",A hurricane sighting has been reported,0.918,"sandy
+sandy has hit
+sandy
+sandy
+sandy
+sandy
+hit stourport
+sandy has hit
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+looks like sandy has hit
+sandy has hit
+sandy
+sandy
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit stourport
+sandy
+sandy
+Sandy has hit
+sandy has hit
+sandy has hit
+looks like sandy has hit stourport!
+sandy has hit stourport!
+sandy
+sandy
+sandy
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+looks like sandy has hit stourport!
+sandy has hit stourport!
+sandy has hit stourport!
+sandy has hit stourport
+sandy has hit stourport
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit
+sandy has hit","
+n/a
+
+na
+n/a
+n/a
+N/A
+N/A
+
+
+N/A
+N/A
+N/A
+
+
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+
+""N/A""
+
+
+n/a
+
+
+n/a
+n/a
+n/a
+n/a
+N/a
+na
+n/a
+
+N/A
+
+N/A
+N/A
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+
+
+N/A
+N/A
+N/A
+n/A
+n/A
+n/A
+n/A
+n/A
+n/A
+n/A","stourport!
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+Stour port
+stourport
+stourport
+stourport!
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourpor
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport!
+stourport!
+stourport!
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+stourport
+tourport
+stourport
+stourport",Informative (Direct or Indirect),"N/A
+""N/A""
+n/a",looks like sandy has hit stourport!,looks like sandy has hit stourport!,Caution and advice,A hurricane sighting has been reported,kathsandford," sandy has hit 
+sandy
+sandy has hit stourport
+sandy has hit
+danger
+sandy
+sandy
+looks like sandy has hit stourport!","N/A
+""N/A""
+n/a","stourport
+stourport"
+227175881,TRUE,golden,29,12/10/2012 6:05,"Bloomberg
+Bloomberg
+
+n/a
+Bloomberg
+
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg
+Bloomberg",Other,0.9684,"Public transportation closed until further notice
+Public transportation closed until further notice
+Public transportation closed until further notice
+Public transportation closed until further notice
+Public transportation closed
+Public transportation closed until further notice
+Public transportation closed until further notice
+Public transportation closed
+Public transportation closed
+Public transportation closed
+Public transportation closed until further notice.
+Public transportation closed until further notice
+Public transportation closed
+Public transportation closed until further notice
+Public transportation closed
+Public transportation closed
+NYC subway tunnels flooded. Air runways flooded at airport
+Public transportation closed
+Public transportation closed
+Public transportation closed
+Public transportation closed
+Public transportation closed until further notice.
+""Public transportation closed until further notice."" Some NYC subway tunnels flooded. Air runways flooded at airport.
+Public transportation closed
+Public transportation closed
+Public transportation closed until further notice
+flooded
+Public transportation closed
+Some NYC subway tunnels flooded. Air runways flooded at airport","until further notice
+until further notice
+
+n/a
+N/A
+until further notice
+N/A
+
+until further notice
+until further notice
+
+
+until further notice
+
+
+until further notice
+until further notice
+until further notice
+until further notice
+Until further notice
+until further notice
+
+N/A
+N/A
+until further notice
+until further notice
+until further notice
+
+N/A","NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+Some NYC subway tunnels flooded.  Air runways flooded at airport.
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC
+NYC",Informative (Direct),Bloomberg,"Bloomberg: ""Public transportation closed until further notice."" Some NYC subway tunnels flooded. Air runways flooded at airport. #Sandy","RT @xeni: Bloomberg: ""Public transportation closed until further notice."" Some NYC subway tunnels flooded. Air runways flooded at airport. #Sandy",Caution and advice,"A hurricane sighting has been reported
+Other",celestemc,"Public transportation closed / NYC subway tunnels flooded. Air runways flooded 
+Public transportation closed until further notice
+Public transportation closed
+Some NYC subway tunnels flooded","until further notice.
+until further notice","NYC / at airport
+NYC"
+227175882,TRUE,golden,29,12/10/2012 6:08,"n/a
+n/a
+n/a
+n/a
+#Sandy
+
+N/A
+
+
+N/A
+
+#Sandy
+#Sandy
+
+N/A
+
+
+Na
+na
+n/a
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+n/a
+
+N/A",Other,0.9688,"lights go out
+If your lights go out
+lights go out
+lights go out
+If your lights go out
+If your lights go out in Toronto it will take a couple hours to a couple of days to restore
+If your lights go out
+If your lights go out
+If your lights go out
+lights go out
+If your lights go out in Toronto it will take a couple hours to a couple of days to restore
+lights go out
+If your lights go out
+lights go out
+If your lights go out
+your lights go out
+If your lights go out
+If your lights go out in Toronto it will take a couple of days to restore them
+If your lights go out
+If your lights go out
+If your lights go out in Toronto it will take a couple hours to a couple of days to restore
+If your lights go out
+If your lights go out
+If your lights go out
+lights go out
+If your lights go out
+lights go out
+If your lights go out
+If your lights go out in Toronto it will take a couple hours to a couple of days to restore","n/a
+n/a
+n/a
+n/a
+couple hours to a couple of days
+
+N/A
+
+couple of days to restore
+couple of days
+
+
+a couple hours to a couple of days
+couple of days
+couple hours to a couple of days
+
+N/A
+A couple of days
+a couple hours to a couple of days
+a couple hours to a couple of days
+N/A
+N/A
+N/A
+N/A
+N/A
+a couple hours to a couple of days
+a couple of days
+
+N/A","Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+in Toronto
+Toronto
+Toronto
+Toronto",Informative (Direct),,If your lights go out in Toronto it will take a couple hours to a couple of days to restore. #Sandy,"RT @clickflickca: ""If your lights go out in Toronto it will take a couple hours to a couple of days to restore."" #Sandy",Caution and advice,Other,commoncentsmom,If your lights go out,,Toronto
+227175883,TRUE,golden,30,12/10/2012 6:08,"
+
+n/a
+n/a
+#Sandy
+#Sandy
+
+
+FEMA
+
+
+N/A
+#Sandy
+4FEMA
+4FEMA
+
+FEMA
+Na
+N/A
+N/A
+N/A
+
+N/A
+N/A
+n/a
+n/a
+
+
+N/A
+N/A",A shelter is open or available,0.925,"search for open shelters
+search for open shelters
+search for open shelters
+search for open shelters
+search for open shelters by texting
+East coast search for open shelters
+search for open shelters by texting
+East coast search for open shelters by texting
+open shelters
+search for open shelters
+search for open shelters by texting: SHELTER + a zip code to 43362 (4FEMA)
+search for open shelters
+search for open shelters
+search for open shelters by texting
+search for open shelters
+search for open shelters
+search for open shelters
+Search for open shelters by texting
+search for open shelters by texting: SHELTER + a zip code to 43362 (4FEMA).
+search for open shelters
+search for open shelters
+open shelters
+search for open shelters
+search for open shelters
+search for open shelters
+search for open shelters by texting
+East coast search for open shelters
+open shelters
+search for open shelters
+search for open shelters","
+
+n/a
+n/a
+N/A
+N/A
+
+
+
+
+
+N/A
+
+
+
+
+n/a
+Na
+N/A
+N/A
+N/A
+
+N/A
+N/A
+n/a
+n/a
+
+
+N/A
+N/A","East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast
+East coast",Informative (Direct),"N/A
+""N/A""",#Sandy East coast search for open shelters by texting: SHELTER + a zip code to 43362 (4FEMA). Ex: Shelter 01234 (std rates apply),RT @fema: #Sandy East coast search for open shelters by texting: SHELTER + a zip code to 43362 (4FEMA). Ex: Shelter 01234 (std rates apply),Caution and advice,A shelter is open or available,cubedreamer,"search for open shelters 
+search for open shelters
+open shelters
+East coast search for open shelters by texting
+Sandy East coast search for open shelters","N/A
+""N/A""
+n/a","East coast
+East coast
+Sandy East coast
+#Sandy East coast
+east cost
+East coast"
+227175887,FALSE,finalized,3,12/8/2012 20:37,"http://t.co/KQp2f2vX
+N/A
+http://t.co/KQp2f2vX",A hurricane warning has been issued or has been lifted,0.6619,"Remain in your homes
+Remain in your homes while the storm is in progress
+Remain in your homes","while the storm is in progress
+while the storm is in progress
+in progress","N/A
+N/A
+NYC",Informative (Direct),,Remain in your homes while the storm is in progress. Stay away from windows: http://t.co/KQp2f2vX #Sandy #NYC,RT @MikeBloomberg: Remain in your homes while the storm is in progress. Stay away from windows: http://t.co/KQp2f2vX #Sandy #NYC,Caution and advice,,JahEmpress,,,
+227175888,FALSE,finalized,3,12/8/2012 19:34,"N/A
+
+n/a",Other,1,"BE SAFE!!!
+BE SAFE
+BE SAFE","N/A
+n/a
+n/a","NYC and surrounding areas
+NYC and surrounding areas
+NYC and surrounding areas",Informative (Direct),,Everyone in NYC and surrounding areas BE SAFE!!! Praying for you all #Sandy,RT @TeamApoloKarina: Everyone in NYC and surrounding areas BE SAFE!!! Praying for you all #Sandy,Caution and advice,,jimmbboe,,,
+227175889,FALSE,finalized,3,12/8/2012 20:47,"N/A
+@NewYorkPost
+@NewYorkPost",Other,0.6506,"empty streets in the concrete jungle
+New York City never sleeps
+empty streets in the concrete jungle","N/A
+N/A
+n/a","New York City
+NYC
+New York City",Informative (Direct),,@NewYorkPost: New York City never sleeps.... #hurricance #sandy #nyc http://t.co/B9BiLs8x empty streets in the concrete jungle!,"RT @ArturinAbreu: ""@NewYorkPost: New York City never sleeps.... #hurricance #sandy #nyc http://t.co/B9BiLs8x"" empty streets in the concrete jungle!",Caution and advice,,luisdessommes,,,
+227175890,FALSE,finalized,3,12/8/2012 20:53,"N/A
+N/A
+n/a",Other,1,"phone network overload
+w/phone network overload or no Internet
+phone network overload or no Internet can text","N/A
+N/A
+n/a","N/A
+NYC
+n/a",Informative (Direct),,NYCÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»ers w/phone network overload or no Internet can text QÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s to 311692 for info or help. #Sandy Please RT,RT @KattHumor: NYCÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»ers w/phone network overload or no Internet can text QÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s to 311692 for info or help. #Sandy Please RT,Caution and advice,,markustedeschii,,,
+227175891,FALSE,finalized,3,12/8/2012 20:18,"#Sandy
+N/A
+a storm chaser",A hurricane sighting has been reported,0.7003,"interviewed a storm chaser
+next 72 hours in NYC especially will be chaos
+worst storm in 100 years","next 72 hours
+next 72 hours
+next 72 hours","NYC
+NYC
+NYC",Informative (Direct),,Just interviewed a storm chaser who says this is the worst storm in 100 years. Says the next 72 hours in NYC especially will be chaos #Sandy,Just interviewed a storm chaser who says this is the worst storm in 100 years. Says the next 72 hours in NYC especially will be chaos #Sandy,Caution and advice,,MattJohnstonTV,,,
+227175892,FALSE,finalized,3,12/8/2012 20:57,"#Sandy
+N/A
+n/a",Other,1,"Driving in this is no joke
+Driving in this is no joke this
+Driving in this is no joke","N/A
+N/A
+n/a","this
+N/A
+n/a",Informative (Direct),,Driving in this is no joke this _ÃƒÆ’Ã‚Â´Ãƒâ€šÃ‚Â»Ãƒâ€šÃ¢â‚¬Â  #Sandy,Driving in this is no joke this _ÃƒÆ’Ã‚Â´Ãƒâ€šÃ‚Â»Ãƒâ€šÃ¢â‚¬Â  #Sandy,Caution and advice,,mocha_93,,,
+227175893,FALSE,finalized,3,12/10/2012 14:47,"http://t.co/v8SGOHpT
+http://t.co/v8SGOHpT
+http://t.co/v8SGOHpT",A hurricane sighting has been reported,0.7244,"crazy waves & wind
+crazy waves & wind
+crazy waves & wind","
+n/a
+n/A","New Buffalo
+New Buffalo
+New Buffalo",Informative (Direct),,We've seen some crazy waves & wind here in New Buffalo from Hurricane Sandy. Lost a few cushions & some soffitt... http://t.co/v8SGOHpT,We've seen some crazy waves & wind here in New Buffalo from Hurricane Sandy. Lost a few cushions & some soffitt... http://t.co/v8SGOHpT,Caution and advice,,NewBuffaloInn,,,
+227175894,FALSE,finalized,3,12/10/2012 14:30,"N/A
+n/a
+n/A",Other,1,"will be closed
+New Dramatists will be closed
+New Dramatists will be closed","Tuesday Oct. 30
+Tuesday Oct. 30
+Tuesday Oct. 30","New Dramatists
+New Dramatists
+New Dramatists",Informative (Direct),,New Dramatists will be closed on Tuesday Oct. 30 due to Hurricane Sandy. Hang in there.,New Dramatists will be closed on Tuesday Oct. 30 due to Hurricane Sandy. Hang in there.,Caution and advice,,NewDramatists,,,
+227175895,FALSE,finalized,3,12/8/2012 20:53,"N/A
+N/A
+n/a",A hurricane sighting has been reported,0.7122,"wind and rain are starting up
+wind and rain are starting up
+wind and rain are starting up","N/A
+N/A
+n/a","N/A
+N/A
+n/a",Informative (Direct),,wind and rain are starting up... SANDY'S COMIN,RT @kristinklementz: wind and rain are starting up... SANDY'S COMIN,Caution and advice,,nicholatrinh,,,
+227175896,FALSE,finalized,3,12/8/2012 20:57,"http://t.co/OJaeiNB9
+n/a
+http://t.co/OJaeiNB9",A hurricane sighting has been reported,0.7358,"wind's really picking up
+wind
+wind's really picking up","N/A
+n/a
+n/a","nyc
+nyc
+nyc",Informative (Direct),,The wind's really picking up out there ... #sandy #nyc http://t.co/OJaeiNB9,RT @CitizenWilliams: The wind's really picking up out there ... #sandy #nyc http://t.co/OJaeiNB9,Caution and advice,,philcloh2o,,,
+227175897,FALSE,finalized,3,12/10/2012 14:34,"N/A
+n/a
+n/A",A hurricane sighting has been reported,0.6647,"high wind
+damn high wind
+high wind","Now
+Now
+Now","N/A
+n/a
+n/A",Informative (Direct),,Now we gotta a damn high wind thanks to that bitch Sandy,Now we gotta a damn high wind thanks to that bitch Sandy,Caution and advice,,SoLowKey1,,,
+227175898,FALSE,finalized,3,12/8/2012 19:09,"n/a
+http://t.co/QabOr5a1
+n/a",A hurricane warning has been issued or has been lifted,0.3819,"Hurricane Sandy Shelter
+Find the Hurricane Sandy Shelter
+Find the Hurricane Sandy Shelter","n/a
+N/A
+n/a","n/a
+Closest to You
+Closest to You",Informative (Direct),,How to Find the Hurricane Sandy Shelter Closest to You http://t.co/QabOr5a1,RT @inhabitat: How to Find the Hurricane Sandy Shelter Closest to You http://t.co/QabOr5a1,Caution and advice,,SoulNav,,,
+227175899,FALSE,finalized,3,12/8/2012 20:37,"N/A
+N/A
+n/a",A hurricane sighting has been reported,0.7122,"Winds howling crazy like a banshee
+Winds howling crazy like a banshee thru NYC
+Winds howling crazy like a banshee","N/A
+N/A
+today","NYC
+NYC
+thru NYC",Informative (Direct),,Winds howling crazy like a banshee thru NYC - bring it on Hurricane Sandy! (good call for the city govt. to shut everything down today),Winds howling crazy like a banshee thru NYC - bring it on Hurricane Sandy! (good call for the city govt. to shut everything down today),Caution and advice,,SuSohn,,,
+227175900,FALSE,finalized,3,12/10/2012 14:47,"N/A
+n/a
+n/A",Other,0.6485,"Hurricane Sandy coming ashore
+Starbucks closes all locations
+Panic  Starbucks closes","N/A
+n/a
+n/A","NYC
+NYC
+Starbucks",Informative (Direct),,Panic rules in NYC as Starbucks closes all locations with Hurricane Sandy coming ashore,Panic rules in NYC as Starbucks closes all locations with Hurricane Sandy coming ashore,Caution and advice,,timmyodea,,,
+227175901,FALSE,finalized,3,12/8/2012 19:34,"N/A
+
+n/a",A hurricane sighting has been reported,1,"storm is getting closer
+storm is getting closer
+storm is getting closer","N/A
+n/a
+n/a","N/A
+n/a
+n/a",Informative (Direct),,And so it begins. The storm is getting closer and closer and the wind gets stronger and louder...#sandy,And so it begins. The storm is getting closer and closer and the wind gets stronger and louder...#sandy,Caution and advice,,vickyXlee,,,
+227175902,FALSE,finalized,3,12/10/2012 14:44,"N/A
+n/a
+#sandy #NYC",A hurricane sighting has been reported,1,"wind is seriously intense
+wind is seriously intense
+wind is seriously intense","right now
+right now
+right now","NYC
+NYC
+NYC",Informative (Direct),,The wind is seriously intense right now!!! Time to get inside people. I love an adventure for a photo but let's be safe. #sandy #NYC,The wind is seriously intense right now!!! Time to get inside people. I love an adventure for a photo but let's be safe. #sandy #NYC,Caution and advice,,wyattgallery,,,
+227175903,FALSE,finalized,3,12/8/2012 20:34,"N/A
+N/A
+http://t.co/tf7VoWGI",A hurricane warning has been issued or has been lifted,0.6506,"President Obama declares states of emergency
+President Obama declares states of emergency in New York and Massachusetts
+President Obama declares states of emergency","N/A
+N/A
+n/a","New York and Massachusetts
+New York and Massachusetts
+New York and Massachusetts",Informative (Indirect),,President Obama declares states of emergency in New York and Massachusetts due to #Hurricane #Sandy. http://t.co/tf7VoWGI,RT @cnnbrk: President Obama declares states of emergency in New York and Massachusetts due to #Hurricane #Sandy. http://t.co/tf7VoWGI,Caution and advice,,_LetsFlyAway_,,,
+227175904,FALSE,finalized,3,12/8/2012 19:44,"ABC News
+ABC News
+ABC News",Other,1,"Bellevue Hospital Set to Evacuate
+Bellevue Hospital Set to Evacuate
+Hospital Set to Evacuate","N/A
+n/a
+n/a","NYC's Bellevue Hospita
+NYC
+NYC's Bellevue Hospital",Informative (Indirect),,NYC's Bellevue Hospital Set to Evacuate - ABC News: ABC NewsNYC's Bellevue Hospital Set to EvacuateABC NewsNew Y... http://t.co/OqAnDoHf,NYC's Bellevue Hospital Set to Evacuate - ABC News: ABC NewsNYC's Bellevue Hospital Set to EvacuateABC NewsNew Y... http://t.co/OqAnDoHf,Caution and advice,,1sthealthnews,,,
+227175905,FALSE,finalized,3,12/8/2012 19:52,"http://t.co/aPChWvbb
+N/A
+n/a",Other,1,"Mashable Media Summit Rescheduled
+Mashable Media Summit Rescheduled Due to Hurricane Sandy
+Mashable Media Summit Rescheduled","past few days
+N/A
+past few days","Mashable Media Summit
+N/A
+n/a",Informative (Indirect),,Mashable Media Summit Rescheduled Due to Hurricane Sandy: We have all seen over the past few days that Hurrica... http://t.co/aPChWvbb,Mashable Media Summit Rescheduled Due to Hurricane Sandy: We have all seen over the past few days that Hurrica... http://t.co/aPChWvbb,Caution and advice,,abc_coza,,,
+227175906,FALSE,finalized,3,12/8/2012 20:32,"NBC4
+NBC4
+http://t.co/lxWv1Fhz - NBC4",A hurricane warning has been issued or has been lifted,0.7047,"Sandy hitting gas peda
+Sandy hitting gas pedal
+Sandy hitting gas pedal. Speeding up.","N/A
+n/a
+scheduled","N/A
+n/a
+n/a",Informative (Indirect),,NEW INFO: Sandy hitting gas pedal. Speeding up. Earlier collision with shore scheduled. Expect lots of damage. http://t.co/lxWv1Fhz - NBC4,NEW INFO: Sandy hitting gas pedal. Speeding up. Earlier collision with shore scheduled. Expect lots of damage. http://t.co/lxWv1Fhz - NBC4,Caution and advice,,AboveAverageA,,,
+227175907,FALSE,finalized,3,12/8/2012 19:00,"@70torinoman (@caribnews)
+@caribnews
+caribnews",A hurricane sighting has been reported,1,"Wind gusts over 60 mph
+Wind gusts over 60 mph are being reported at Central Park and JFK airport
+Wind gusts over 60 mph","this hour
+this hour
+this hour","Central Park and JFK airport
+NYC
+Central Park and JFK airport",Informative (Indirect),,Wind gusts over 60 mph are being reported at Central Park and JFK airport in #NYC this hour - TWC #Sandy -- @70torinoman (@caribnews),Wind gusts over 60 mph are being reported at Central Park and JFK airport in #NYC this hour - TWC #Sandy -- @70torinoman (@caribnews),Caution and advice,,adri16,,,
+227175908,FALSE,finalized,3,12/8/2012 19:14,"http://t.co/KQp2f2vX
+N/A
+n/a",A hurricane warning has been issued or has been lifted,0.7003,"Conditions are dangerous
+The time for evacuation is over
+time for evacuation is over. Conditions are dangerous","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,RT @MikeBloomberg: The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,Caution and advice,,alj770,,,
+227175909,FALSE,finalized,3,12/10/2012 14:44,"N/A
+n/a
+http://t.co/sEQMLFv3",A hurricane sighting has been reported,1,"winds water swell
+Sandy now 40 miles from New Jersey
+winds water swell","now
+now
+now","40 miles from New Jersey
+New Jersey
+New Jersey",Informative (Indirect),,#BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,RT @NBCNewYork: #BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,Caution and advice,,annemaccat,,,
+227175910,FALSE,finalized,3,12/10/2012 14:27,"http://t.co/8fIXrOiY
+http://t.co/8fIXrOiY
+http://t.co/8fIXrOiY",Other,1,"Mayor Michael Bloomberg to hold press conference
+Mayor Michael Bloomberg to hold press conference on #Sandy
+press conference","momentarily
+momentarily
+n/A","NYC
+NYC
+NYC",Informative (Indirect),,NYC Mayor Michael Bloomberg to hold press conference on #Sandy momentarily. Watch Live: http://t.co/8fIXrOiY,RT @thedailybeast: NYC Mayor Michael Bloomberg to hold press conference on #Sandy momentarily. Watch Live: http://t.co/8fIXrOiY,Caution and advice,,asrulsidiq,,,
+227175911,FALSE,finalized,3,12/8/2012 20:06,"http://t.co/sEQMLFv3
+http://t.co/sEQMLFv3
+http://t.co/sEQMLFv3",A hurricane sighting has been reported,0.6988,"Sandy now 40 miles from New Jersey
+Sandy now 40 miles from New Jersey
+Sandy now 40 miles from New Jersey","now
+N/A
+now","40 miles from New Jersey
+New Jersey
+40 miles from New Jersey",Informative (Indirect),,#BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,RT @NBCNewYork: #BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,Caution and advice,,attynyc212,,,
+227175912,FALSE,finalized,3,12/8/2012 19:37,"N/A
+#BREAKING
+n/a",A hurricane sighting has been reported,0.7108,"winds water swell
+Sandy now 40 miles from New Jersey
+Sandy now 40 miles from New Jersey","now
+now
+now","40 miles from New Jersey
+New Jersey
+40 miles from New Jersey",Informative (Indirect),,#BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,RT @NBCNewYork: #BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,Caution and advice,,beachhomesnj,,,
+227175913,FALSE,finalized,3,12/8/2012 20:28,"N/A
+N/A
+n/a",Other,1,"All pets are accepted
+All pets are accepted on the subway taxi and trains
+pets are accepted on the subway taxi and trains","during evacuation
+N/A
+during evacuation.","subway taxi and trains
+NYC
+NYC",Informative (Indirect),,NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,RT @ASPCA: NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,Caution and advice,,biasia,,,
+227175914,FALSE,finalized,3,12/10/2012 14:30,"N/A
+n/a
+http://t.co/soE3zq3s",A hurricane warning has been issued or has been lifted,0.6485,"Sandy will unleash furious waves on New York City
+Sandy will unleash furious waves
+Sandy will unleash furious waves","8 P.M
+8 P.M
+8 P.M","New York City
+New York City
+New York City",Informative (Indirect),,'SET YOUR WATCHES FOR 8 P.M:' That's when #Sandy will unleash furious waves on New York City http://t.co/soE3zq3s,RT @nydailynews: 'SET YOUR WATCHES FOR 8 P.M:' That's when #Sandy will unleash furious waves on New York City http://t.co/soE3zq3s,Caution and advice,,BiscardiA,,,
+227175915,FALSE,finalized,3,12/8/2012 20:14,"http://t.co/1QJ8VCRv
+BNO NEWS
+(BNO NEWS)",Other,1,"U.S. stock markets reopen
+stock markets to reopen Wednesday
+U.S. stock markets to reopen","Wednesday
+Wednesday
+Wednesday","New York City
+NEW YORK CITY
+NEW YORK CITY",Informative (Indirect),,WireUpdate U.S. stock markets to reopen Wednesday after Sandy kills 43: NEW YORK CITY (BNO NEWS) -- Major stock ... http://t.co/1QJ8VCRv,WireUpdate U.S. stock markets to reopen Wednesday after Sandy kills 43: NEW YORK CITY (BNO NEWS) -- Major stock ... http://t.co/1QJ8VCRv,Caution and advice,,bnogr,,,
+227175916,FALSE,finalized,3,12/10/2012 14:27,"@NHC_Atlantic
+@NHC_Atlantic http://t.co/S4Otj1kk
+http://t.co/S4Otj1kk",A hurricane warning has been issued or has been lifted,1,"Hurricane Sandy expected to make landfall
+Sandy expected to make landfall
+Hurricane Sandy","by early evening
+by early evening
+early evening","along or just south of southern NJ coast
+along or just south of southern NJ coast
+south of southern NJ",Informative (Indirect),,Hurricane Sandy expected to make landfall along or just south of southern NJ coast by early evening - @NHC_Atlantic http://t.co/S4Otj1kk,Hurricane Sandy expected to make landfall along or just south of southern NJ coast by early evening - @NHC_Atlantic http://t.co/S4Otj1kk,Caution and advice,,breakingstorm,,,
+227175917,FALSE,finalized,3,12/8/2012 20:24,"http://t.co/8ro4trG5
+
+http://t.co/8ro4trG5",Other,0.6559,"keep an eye out for storm drains
+please prepared to keep an eye out for storm drains
+keep an eye out for storm drains","In advance of the arrival of Hurricane Sandy
+In advance of the arrival of Hurricane Sandy
+the arrival of Hurricane Sandy","N/A
+n/a
+n/a",Informative (Indirect),,In advance of the arrival of Hurricane Sandy please prepared to keep an eye out for storm drains whose tops are... http://t.co/8ro4trG5,In advance of the arrival of Hurricane Sandy please prepared to keep an eye out for storm drains whose tops are... http://t.co/8ro4trG5,Caution and advice,,BTVDPW,,,
+227175918,FALSE,finalized,3,12/10/2012 14:30,"http://t.co/84uM94Kh
+http://t.co/84uM94Kh
+http://t.co/84uM94Kh",Other,0.6869,"sandy update
+sandy update here
+sandy update","now
+now
+now","http://t.co/84uM94Kh
+NYC
+NYC",Informative (Indirect),,Mayor Bloomberg live NYC #sandy update here now: http://t.co/84uM94Kh,RT @rebeccagberg: Mayor Bloomberg live NYC #sandy update here now: http://t.co/84uM94Kh,Caution and advice,,BuzzFeed,,,
+227175919,FALSE,finalized,3,12/8/2012 19:56,"N/A
+N/A
+n/a",Other,1,"prevent mold
+Start cleaning up quickly after hurricane flooding
+cleaning up quickly after hurricane flooding","after hurricane flooding
+N/A
+quickly","N/A
+N/A
+n/a",Informative (Indirect),,Start cleaning up quickly after hurricane flooding to prevent mold. http://t.co/WGgfSimu,Start cleaning up quickly after hurricane flooding to prevent mold. http://t.co/WGgfSimu,Caution and advice,,CalorieLab,,,
+227175920,FALSE,finalized,3,12/10/2012 14:47,"@ASPCA
+AWWWW RT @ASPCA
+@ASPCA",Other,1,"All pets are accepted on the subway taxi and trains
+pets are accepted on the subway taxi and trains
+All pets are accepted during evacuation","during evacuation
+during evacuation
+n/A","NYC
+NYC
+subway taxi",Informative (Indirect),,AWWWW RT @ASPCA: NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,AWWWW RT @ASPCA: NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,Caution and advice,,camai_,,,
+227175921,FALSE,finalized,3,12/10/2012 14:37,"http://t.co/1y3SaPsl
+http://t.co/1y3SaPsl
+http://t.co/1y3SaPsl",Other,1,"Mayor is updating New Yorkers
+Mayor is updating New Yorkers on #Sandy
+updating New Yorkers","LIVE NOW
+LIVE NOW
+NOW","New York
+New York
+New York",Informative (Indirect),,LIVE NOW: the Mayor is updating New Yorkers on #Sandy: http://t.co/1y3SaPsl,RT @NYCMayorsOffice: LIVE NOW: the Mayor is updating New Yorkers on #Sandy: http://t.co/1y3SaPsl,Caution and advice,,CarolHelf,,,
+227175922,FALSE,finalized,3,12/10/2012 14:40,"N/A
+forecasters
+n/A",A hurricane warning has been issued or has been lifted,0.6869,"SANDY SET TO SLAM NYC AND TRI-STATE REGION
+STORM SANDY SET TO SLAM
+SLAM NYC","N/A
+n/a
+n/A","NYC AND TRI-STATE REGION
+NYC AND TRI-STATE REGION
+NYC",Informative (Indirect),,MONSTER STORM SANDY SET TO SLAM NYC AND TRI-STATE REGION: AS HURRICANE SANDY PICKS UP SPEED forecasters say it will slam into New Je...,MONSTER STORM SANDY SET TO SLAM NYC AND TRI-STATE REGION: AS HURRICANE SANDY PICKS UP SPEED forecasters say it will slam into New Je...,Caution and advice,,CGaye2,,,
+227175923,FALSE,finalized,4,12/8/2012 21:09,"n/a
+N/A
+N/A
+http://t.co/sEQMLFv3",A hurricane sighting has been reported,1,"#Sandy now 40 miles from New Jersey
+Sandy now 40 miles from New Jersey
+Sandy
+winds water swell","now
+now
+now
+now","40 miles from New Jersey
+New Jersey
+40 miles from New Jersey
+now 40 miles from New Jersey",Informative (Indirect),,#BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,RT @NBCNewYork: #BREAKING: #Sandy now 40 miles from New Jersey as winds water swell #SandyNJ http://t.co/sEQMLFv3,Caution and advice,,Cholosocksgirl,,,
+227175924,FALSE,finalized,3,12/10/2012 14:23,"n/a
+http://t.co/ZS97FeGR
+http://t.co/ZS97FeGR",Other,1,"NYC Hurricane Sandy 2012 Update
+Storm to Shut Down City
+Storm","n/a
+Tuesday
+Tuesday","NYC
+NYC
+NYC",Informative (Indirect),,NYC Hurricane Sandy 2012 Update: Storm to Shut Down City on Tuesday http://t.co/ZS97FeGR,NYC Hurricane Sandy 2012 Update: Storm to Shut Down City on Tuesday http://t.co/ZS97FeGR,Caution and advice,,ChrisJACooper,,,
+227175925,FALSE,finalized,3,12/10/2012 14:47,"N/A
+http://t.co/oxTN1BKB
+http://t.co/oxTN1BKB",A hurricane sighting has been reported,1,"Sandy makes landfall
+Sandy makes landfall
+Sandy makes landfall","N/A
+n/a
+n/A","New Jerse
+New Jerse
+New Jersey",Informative (Indirect),,#BREAKING: #Sandy makes landfall in New Jersey. #NJ http://t.co/oxTN1BKB,RT @NBCNewYork: #BREAKING: #Sandy makes landfall in New Jersey. #NJ http://t.co/oxTN1BKB,Caution and advice,,CirocBoyNick,,,
+227175926,FALSE,finalized,3,12/10/2012 14:23,"http://t.co/KQp2f2vX
+http://t.co/KQp2f2vX
+http://t.co/KQp2f2vX",A hurricane warning has been issued or has been lifted,0.6869,"Please stay where you are
+Conditions are dangerous and will get worse
+Conditions are dangerous","N/A
+The time for evacuation is over
+N/A","NYC
+NYC
+where you are",Informative (Indirect),,The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,RT @MikeBloomberg: The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,Caution and advice,,coastalvegan,,,
+227175927,FALSE,finalized,3,12/8/2012 19:14,"@AsburyParkPress
+@AsburyParkPress
+AsburyParkPress",Other,0.6355,"Sandy to cause 'record extreme coastal flooding
+Sandy to cause 'record extreme coastal flooding
+record extreme coastal flooding","N/A
+N/A
+n/a","N/A
+N/A
+n/a",Informative (Indirect),,Sandy to cause 'record extreme coastal flooding' http://t.co/KHls8eDj via @AsburyParkPress,Sandy to cause 'record extreme coastal flooding' http://t.co/KHls8eDj via @AsburyParkPress,Caution and advice,,colleen52390759,,,
+227175928,FALSE,finalized,3,12/8/2012 19:41,"n/a
+N/A
+n/a",Other,0.6543,"East coast braces for hurricane
+East coast braces for hurricane
+braces for hurricane","n/a
+N/A
+n/a","East coast
+East coast
+East coast",Informative (Indirect),,Sandy: East coast braces for hurricane ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã¢â‚¬â€œlife-threateningÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â» storm surge http://t.co/zD0IJNRA,Sandy: East coast braces for hurricane ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã¢â‚¬â€œlife-threateningÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â» storm surge http://t.co/zD0IJNRA,Caution and advice,,conquilia,,,
+227175929,FALSE,finalized,4,12/8/2012 21:09,"N/A
+N/A
+Mayor Michael Bloomberg
+http://t.co/XtzsBslf",Other,1,"Mayor Michael Bloomberg updates residents on Hurricane
+Mayor Michael Bloomberg updates residents on Hurricane
+Hurricane #Sandy
+Mayor Michael Bloomberg updates residents on Hurricane","N/A
+N/A
+N/A
+LIVE","http://t.co/XtzsBslf
+NYC
+NYC
+NYC",Informative (Indirect),,LIVE VIDEO: NYC Mayor Michael Bloomberg updates residents on Hurricane #Sandy http://t.co/XtzsBslf,RT @NBCNews: LIVE VIDEO: NYC Mayor Michael Bloomberg updates residents on Hurricane #Sandy http://t.co/XtzsBslf,Caution and advice,,Cubfnatic,,,
+227175930,FALSE,finalized,3,12/8/2012 20:24,"http://t.co/4Cswv26R
+JFK
+http://t.co/4Cswv26R",A hurricane sighting has been reported,1,"wind gust to 66mph
+JFK recorded a wind gust to 66mph at 1:36pm
+recorded a wind gust to 66mph","1:36pm
+1:36pm
+1:36pm","JFK
+N/A
+JFK",Informative (Indirect),,JFK recorded a wind gust to 66mph at 1:36pm. Just short of hurricane force. Still 8-10hrs from landfall. http://t.co/4Cswv26R #Sandy,RT @WSJweather: JFK recorded a wind gust to 66mph at 1:36pm. Just short of hurricane force. Still 8-10hrs from landfall. http://t.co/4Cswv26R #Sandy,Caution and advice,,DanaGalColeman,,,
+227175931,FALSE,finalized,3,12/8/2012 19:49,"N/A
+N/A
+n/a",A shelter is open or available,0.6386,"ALL evacuation shelters are pet friendly
+ALL evacuation shelters are pet friendly
+evacuation shelters are pet friendly - don't leave your pets behind","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,NYC ALERT: ALL evacuation shelters are pet friendly - don't leave your pets behind! http://t.co/Xs6MngZp #SANDY #sandypets,RT @ASPCA: NYC ALERT: ALL evacuation shelters are pet friendly - don't leave your pets behind! http://t.co/Xs6MngZp #SANDY #sandypets,Caution and advice,,Daneeo1985,,,
+227175932,FALSE,finalized,3,12/8/2012 20:10,"N/A
+N/A
+http://t.co/SrOGBdL4",Other,1,"record-breaking storm
+Sandy shaping up as record-breaking storm
+Sandy shaping up as record-breaking storm","N/A
+N/A
+n/a","N/A
+N/A
+n/a",Informative (Indirect),,Hurricane #Sandy shaping up as record-breaking storm. http://t.co/SrOGBdL4,RT @cnnbrk: Hurricane #Sandy shaping up as record-breaking storm. http://t.co/SrOGBdL4,Caution and advice,,DanTRusu,,,
+227175933,FALSE,finalized,3,12/8/2012 20:47,"N/A
+
+http://t.co/wl7rGW1H.",Other,1,"Mayor Bloomberg will update New Yorkers on #Sandy
+Mayor Bloomberg will update New Yorkers on #Sandy
+Mayor Bloomberg will update New Yorkers","10 AM
+10 AM
+10 AM","Will be live on http://t.co/wl7rGW1H.
+New Yorkers
+New York",Informative (Indirect),,Mayor Bloomberg will update New Yorkers on #Sandy at 10 AM. Will be live on http://t.co/wl7rGW1H.,RT @NYCMayorsOffice: Mayor Bloomberg will update New Yorkers on #Sandy at 10 AM. Will be live on http://t.co/wl7rGW1H.,Caution and advice,,DareIBuild,,,
+227175934,FALSE,finalized,3,12/10/2012 14:37,"n/a
+@BrianLehrer @Gawker
+#BPC #NYC",Other,0.6502,"marina lower wall/pier
+Ready to crest
+Ready to crest North Cove marina lower wall/pier","n/a
+5:15pm
+5:15pm","NYC
+North Cove marina lower wall/pier
+orth Cove marina",Informative (Indirect),,5:15pm Ready to crest North Cove marina lower wall/pier. 4+ft to Esplanade #BPC #NYC @AP @BrianLehrer @Gawker #Sandy,5:15pm Ready to crest North Cove marina lower wall/pier. 4+ft to Esplanade #BPC #NYC @AP @BrianLehrer @Gawker #Sandy,Caution and advice,,dingbat,,,
+227175935,FALSE,finalized,3,12/8/2012 19:41,"N/A
+N/A
+n/a",A hurricane warning has been issued or has been lifted,0.6974,"Wind gusts over 60 mph
+Wind gusts over 60 mph
+Wind gusts over 60 mph","this hour
+N/A
+this hour","Central Park and JFK airport in #NYC
+Central Park and JFK airport
+Central Park and JFK airport in #NYC",Informative (Indirect),,Wind gusts over 60 mph are being reported at Central Park and JFK airport in #NYC this hour. #Sandy,RT @twc_hurricane: Wind gusts over 60 mph are being reported at Central Park and JFK airport in #NYC this hour. #Sandy,Caution and advice,,DITZABELLA,,,
+227175936,FALSE,finalized,3,12/8/2012 20:40,"http://t.co/21Kq3Dkx
+N/A
+http://t.co/21Kq3Dkx",Other,0.6355,"Sandy Schedule Update
+Storm Sandy Schedule Update
+Storm Sandy Schedule Update","N/A
+N/A
+aftermath of this sto...","N/A
+N/A
+n/a",Informative (Indirect),,Updated Website! Storm Sandy Schedule Update - We've been praying that you are all safe in the aftermath of this sto... http://t.co/21Kq3Dkx,Updated Website! Storm Sandy Schedule Update - We've been praying that you are all safe in the aftermath of this sto... http://t.co/21Kq3Dkx,Caution and advice,,DixHillsChurch,,,
+227175937,FALSE,finalized,3,12/8/2012 20:06,"http://t.co/3BnewQxJ
+N/A
+http://t.co/3BnewQxJ",Other,1,"Bridges Set to Close
+Several Bridges Set to Close
+Bridges Set to Close","N/A
+N/A
+n/a","Bridges
+NYC
+NYC",Informative (Indirect),,Several Bridges Set to Close Because of #HurricaneSandy #Sandy #NYC http://t.co/3BnewQxJ,Several Bridges Set to Close Because of #HurricaneSandy #Sandy #NYC http://t.co/3BnewQxJ,Caution and advice,,DNAinfo,,,
+227175938,FALSE,finalized,3,12/8/2012 20:18,"n/a
+N/A
+Mayor Bloomberg",Other,1,"Mayor Bloomberg Updates NYC
+Mayor Bloomberg Updates NYC
+Updates NYC On #Sandy","LIVESTREAM NOW
+NOW
+NOW","NYC
+NYC
+NYC",Informative (Indirect),,Mayor Bloomberg Updates NYC On #Sandy http://t.co/45AjuROW LIVESTREAM NOW,Mayor Bloomberg Updates NYC On #Sandy http://t.co/45AjuROW LIVESTREAM NOW,Caution and advice,,DNDailyPolitics,,,
+227175939,FALSE,finalized,3,12/10/2012 14:23,"http://t.co/Blm4kUzw
+http://t.co/Blm4kUzw
+http://t.co/Blm4kUzw",A hurricane sighting has been reported,0.6502,"clouds loom
+Menacing clouds loom over #NYC
+Menacing clouds","
+today
+today","NYC
+NYC
+NYC",Informative (Indirect),,Menacing clouds loom over #NYC today in advance of Hurricane #Sandy. #Frankenstorm http://t.co/Blm4kUzw,Menacing clouds loom over #NYC today in advance of Hurricane #Sandy. #Frankenstorm http://t.co/Blm4kUzw,Caution and advice,,EMaloneG,,,
+227175940,FALSE,finalized,3,12/8/2012 19:09,"@mikeBloomberg
+@mikeBloomberg
+mikeBloomberg",Other,1,"it will take a day or two to recover
+it will take a day or two to recover
+to recover","a day or two
+N/A
+a day or two","NYC
+NYC
+nyc",Informative (Indirect),,it will take a day or two to recover...[some things] into the weekend--@mikeBloomberg #sandy #nyc,"RT @azipaybarah: ""it will take a day or two to recover...[some things] into the weekend""--@mikeBloomberg #sandy #nyc",Caution and advice,,faiza_n_ali,,,
+227175941,FALSE,finalized,3,12/8/2012 20:40,"N/A
+N/A
+http://t.co/AniU2e8q",Other,1,"financial markets closed
+Storm will keep financial markets closed Tuesday
+Storm will keep financial markets closed","Tuesday
+Tuesday
+Tuesday","NEW YORK
+NEW YORK
+NEW YORK",Informative (Indirect),,Storm will keep financial markets closed Tuesday: NEW YORKÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®Major U.S. stock and bond markets will be closed beca... http://t.co/AniU2e8q,Storm will keep financial markets closed Tuesday: NEW YORKÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®Major U.S. stock and bond markets will be closed beca... http://t.co/AniU2e8q,Caution and advice,,fanlacrosse,,,
+227175942,FALSE,finalized,3,12/10/2012 14:27,"N/A
+http://t.co/lYJ7xUrB
+http://t.co/lYJ7xUrB",Other,1,"All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled
+All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled
+Broadway performances have been cancelled","Monday 10/29 and Tuesday 10/30
+Monday 10/29 and Tuesday 10/30
+Monday 10/29 and Tuesday 10/30","NYC
+NYC
+NYC",Informative (Indirect),,UPDATE: All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled. #Sandy More info: http://t.co/lYJ7xUrB,RT @TheBwayLeague: UPDATE: All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled. #Sandy More info: http://t.co/lYJ7xUrB,Caution and advice,,fdilella,,,
+227175943,FALSE,finalized,3,12/8/2012 19:29,"n/a
+N/A
+n/a",Other,1,"JFK Newark airports reopen
+JFK Newark airports reopen on limited operational schedule
+limited operational schedule","n/a
+N/A
+n/a","JFK Newark LaGuardia
+NYC
+JFK Newark airports",Informative (Indirect),,JFK Newark airports reopen on limited operational schedule after #Sandy http://t.co/lzW7vRB2 &gt; LaGuardia still closed #NYC,JFK Newark airports reopen on limited operational schedule after #Sandy http://t.co/lzW7vRB2 &gt; LaGuardia still closed #NYC,Caution and advice,,Global_Montreal,,,
+227175944,FALSE,finalized,3,12/8/2012 20:40,"N/A
+N/A
+n/a",Other,1,"satalite images and shots
+satalite images and shots coming out
+satalite images and shots coming out","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,Wow the satalite images and shots coming out of NYC are really scary. #StaySafe #Sandy,Wow the satalite images and shots coming out of NYC are really scary. #StaySafe #Sandy,Caution and advice,,Halled,,,
+227175945,FALSE,finalized,3,12/8/2012 19:52,"http://t.co/1y3SaPsl
+LIVE NOW
+n/a",Other,0.6355,"Mayor is updating New Yorkers on #Sandy
+Mayor is updating New Yorkers
+Mayor is updating New Yorkers on #Sandy","LIVE NOW
+N/A
+LIVE NOW","N/A
+NYC
+New York",Informative (Indirect),,LIVE NOW: the Mayor is updating New Yorkers on #Sandy: http://t.co/1y3SaPsl,RT @NYCMayorsOffice: LIVE NOW: the Mayor is updating New Yorkers on #Sandy: http://t.co/1y3SaPsl,Caution and advice,,HealthcareWen,,,
+227175946,FALSE,finalized,3,12/8/2012 20:20,"Mayor Bloomberg
+Mayor Bloomberg
+Mayor Bloomberg",A shelter is open or available,1,"shelters we opened will remain open
+76 shelters we opened will remain open today
+76 shelters we opened will remain open today","today
+today
+today","NYC
+NYC
+NYC",Informative (Indirect),,Mayor Bloomberg: The 76 shelters we opened will remain open today. #Sandy #NYC,RT @HuffingtonPost: Mayor Bloomberg: The 76 shelters we opened will remain open today. #Sandy #NYC,Caution and advice,,HeiddiZ,,,
+227175947,FALSE,finalized,3,12/8/2012 20:06,"http://t.co/xuL3kt1a
+N/A
+http://t.co/xuL3kt1a",A hurricane warning has been issued or has been lifted,0.7122,"state of emergency
+9 states along Mid-Atlantic coast declare state of emergency
+declare state of emergency","N/A
+N/A
+n/a","9 states along Mid-Atlantic coast
+NYC
+9 states along Mid-Atlantic coast",Informative (Indirect),,9 states along Mid-Atlantic coast declare state of emergency-info&updates here + evac zone maps/guides for #NYC http://t.co/xuL3kt1a #Sandy,RT @katiecouric: 9 states along Mid-Atlantic coast declare state of emergency-info&updates here + evac zone maps/guides for #NYC http://t.co/xuL3kt1a #Sandy,Caution and advice,,HotmaMejia,,,
+227175948,FALSE,finalized,3,12/10/2012 14:34,"N/A
+http://t.co/yUClpuNt
+http://t.co/yUClpuNt",Other,1,"Over 13500 flight cancelled
+Over 13500 flight cancelled
+13500 flight cancelled","N/A
+n/a
+n/A","#NYC #NJ
+NYC
+NYC",Informative (Indirect),,#Sandy #Updates: Over 13500 flight cancelled and counting due to Hurricane Sandy.. #NYC #NJ http://t.co/yUClpuNt,#Sandy #Updates: Over 13500 flight cancelled and counting due to Hurricane Sandy.. #NYC #NJ http://t.co/yUClpuNt,Caution and advice,,JasminGranado,,,
+227175949,FALSE,finalized,3,12/8/2012 20:18,"N/A
+N/A
+http://t.co/KQp2f2vX",A hurricane warning has been issued or has been lifted,0.7108,"Conditions are dangerous and will get worse
+Please stay where you are
+Conditions are dangerous and will get worse","N/A
+N/A
+The time for evacuation is over","NYC
+NYC
+NYC",Informative (Indirect),,The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,RT @MikeBloomberg: The time for evacuation is over. Conditions are dangerous and will get worse. Please stay where you are #Sandy #NYC http://t.co/KQp2f2vX,Caution and advice,,jmbelcher,,,
+227175950,FALSE,finalized,3,12/8/2012 21:09,"http://t.co/Pgxt83by
+N/A
+http://t.co/Pgxt83by",A shelter is open or available,0.6537,"need of shelter
+If in immediate need of shelter
+If in immediate need of shelter","
+N/A
+n/a","n/a
+N/A
+http://t.co/Pgxt83by",Informative (Indirect),,If in immediate need of shelter please visit http://t.co/Pgxt83by to locate your nearest options. #shelter #Sandy,RT @RedCross: If in immediate need of shelter please visit http://t.co/Pgxt83by to locate your nearest options. #shelter #Sandy,Caution and advice,,jmgreenwell,,,
+227175951,FALSE,finalized,3,12/8/2012 20:50,"http://t.co/pQxgRVG1
+@xhank
+@xhank. http://t.co/pQxgRVG1",Other,1,"Empty streets
+Empty streets
+Empty streets","N/A
+n/a
+n/a","Soho
+Soho NYC
+Soho NYC",Informative (Indirect),,Empty streets of Soho NYC by @xhank. http://t.co/pQxgRVG1 #sandy,RT @stevesilberman: Empty streets of Soho NYC by @xhank. http://t.co/pQxgRVG1 #sandy,Caution and advice,,johndavisonx,,,
+227175952,FALSE,finalized,3,12/10/2012 14:40,"N/A
+n/a
+http://t.co/NDA9XSgt",Other,1,"FLOODING POSSIBLE
+REMNANTS OF HURRICANE SANDY WILL LINGER
+FLOODING POSSIBLE","N/A
+n/a
+n/A","CENTRAL PENN
+CENTRAL PENN
+CENTRAL PENN",Informative (Indirect),,...FLOODING POSSIBLE FROM REMNANTS OF HURRICANE SANDY... .THE REMNANTS OF HURRICANE SANDY WILL LINGER OVER CENTRAL PENN http://t.co/NDA9XSgt,...FLOODING POSSIBLE FROM REMNANTS OF HURRICANE SANDY... .THE REMNANTS OF HURRICANE SANDY WILL LINGER OVER CENTRAL PENN http://t.co/NDA9XSgt,Caution and advice,,Johnstown_WX,,,
+227175953,FALSE,finalized,3,12/8/2012 20:20,"N/A
+N/A
+n/a",Other,1,"all four East River bridges will shut down
+At 7 PM all four East River bridges will shut down
+bridges will shut down","7 PM
+7 PM
+7 PM","Brooklyn Manhattan Williamsburg and Ed Koch Queensboro Bridges
+East River
+Brooklyn Manhattan Williamsburg and Ed Koch Queensboro Bridges",Informative (Indirect),,BREAKING: At 7 PM all four East River bridges will shut down: Brooklyn Manhattan Williamsburg and Ed Koch Queensboro Bridges. #Sandy,RT @NYCMayorsOffice: BREAKING: At 7 PM all four East River bridges will shut down: Brooklyn Manhattan Williamsburg and Ed Koch Queensboro Bridges. #Sandy,Caution and advice,,Jsurvivor_nyc,,,
+227175954,FALSE,finalized,3,12/8/2012 20:14,"N/A
+N/A
+gusts",A hurricane sighting has been reported,0.6386,"highest observed gusts
+JFK airport in #NYC now gusting to 71 mph
+now gusting to 71 mph","now
+now
+now","#JFK airport in #NYC
+NYC
+JFK airport in #NYC",Informative (Indirect),,#JFK airport in #NYC now gusting to 71 mph - the highest observed gusts so far in NYC during #Sandy.,RT @twc_hurricane: #JFK airport in #NYC now gusting to 71 mph - the highest observed gusts so far in NYC during #Sandy.,Caution and advice,,JusAire,,,
+227175955,FALSE,finalized,3,12/10/2012 14:34,"Gov. Cuomo
+Gov. Cuomo
+http://t.co/ViLRqyQU",Other,0.6631,"close NYC bridges
+close NYC bridges
+close NYC bridges","7:00 PM
+7:00 PM
+7:00 PM","NYC
+NYC
+NYC",Informative (Indirect),,Gov. Cuomo has directed the Port Authority and the MTA to close NYC bridges at 7:00 PM http://t.co/ViLRqyQU #Sandy,RT @nydailynews: Gov. Cuomo has directed the Port Authority and the MTA to close NYC bridges at 7:00 PM http://t.co/ViLRqyQU #Sandy,Caution and advice,,katew,,,
+227175956,FALSE,finalized,3,12/10/2012 14:27,"ConEd CEO
+ConEd CEO
+#Sandy",Other,1,"significant chance of flooding
+significant chance of flooding
+chance of flooding","N/A
+n/a
+n/A","throughout NYC
+throughout NYC
+NYC",Informative (Indirect),,"ConEd CEO on #Sandy: ""There is a significant chance of flooding throughout NYC""","RT @WSJweather: ConEd CEO on #Sandy: ""There is a significant chance of flooding throughout NYC""",Caution and advice,,KCMichelle,,,
+227175957,FALSE,finalized,3,12/8/2012 20:14,"n/a
+N/A
+n/a",Other,1,"outage clusters
+Biggest outage clusters get repaired first
+outage clusters get repaired first.","n/a
+N/A
+n/a","NYC
+NYC
+Westchester #NYC",Informative (Indirect),,Biggest outage clusters get repaired first. Smaller clusters to follow. #Westchester #NYC #Sandy #ConEdison,RT @ConEdison: Biggest outage clusters get repaired first. Smaller clusters to follow. #Westchester #NYC #Sandy #ConEdison,Caution and advice,,KelleyChubb,,,
+227175958,FALSE,finalized,3,12/8/2012 19:44,"Bloomberg
+RT @achorowitz
+Bloomberg",A hurricane warning has been issued or has been lifted,0.6559,"the worst of the storm
+worst of the storm
+worst of the storm","630-1030 PM
+630-1030 PM
+630-1030 PM","NYC
+NYC
+NYC",Informative (Indirect),,RT @achorowitz: 630-1030 PM will be the worst of the storm in NYC says Bloomberg #nyc #sandy,RT @AlexJamesFitz: RT @achorowitz: 630-1030 PM will be the worst of the storm in NYC says Bloomberg #nyc #sandy,Caution and advice,,Kenosen2,,,
+227175959,FALSE,finalized,3,12/8/2012 21:09,"Mayor Bloomberg
+NYC Mayor Bloomberg
+Mayor Bloomberg",Other,1,"ConEd may shut down power
+ConEd may shut down power
+may shut down power","N/A
+N/A
+n/a","southern Brooklyn and lower Manhattan
+in southern Brooklyn and lower Manhattan
+southern Brooklyn and lower Manhattan",Informative (Indirect),,NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,RT @TheMatthewKeys: NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,Caution and advice,,kerstinshamberg,,,
+227175960,FALSE,finalized,3,12/8/2012 20:44,"N/A
+http://t.co/TQSYfNah
+#IFWT Experts",A hurricane warning has been issued or has been lifted,1,"Experts Say 8 O'Clock Is When Hurricane Sandy Unleashes Her Fury On NYC
+Hurricane Sandy Unleashes Her Fury On NYC
+When Hurricane Sandy Unleashes Her Fury","8 O'Clock
+8 O'Clock
+8 O'Clock","NYC
+NYC
+NYC",Informative (Indirect),,#IFWT Experts Say 8 O'Clock Is When Hurricane Sandy Unleashes Her Fury On NYC - http://t.co/TQSYfNah,RT @funkmasterflex: #IFWT Experts Say 8 O'Clock Is When Hurricane Sandy Unleashes Her Fury On NYC - http://t.co/TQSYfNah,Caution and advice,,KidDuckie,,,
+227175961,FALSE,finalized,3,12/10/2012 6:12,"#Sandy
+NYC Mayor Bloomberg
+NYC Mayor Bloomberg",Other,1,"shut down power
+shut down power
+ConEd may shut down power","N/A
+n/a
+N/A","southern Brooklyn and lower Manhattan
+southern Brooklyn and lower Manhattan
+Brooklyn and lower Manhattan",Informative (Indirect),,NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,RT @TheMatthewKeys: NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,Caution and advice,,ksrgatorfn,,,
+227175962,FALSE,finalized,3,12/10/2012 14:40,"N/A
+n/a
+#Sandy",Other,1,"Alternate side parking and meter regulations are suspended citywide
+parking and meter regulations are suspended
+are suspended","tomorrow
+tomorrow
+tomorrow","N/A
+citywide
+citywide",Informative (Indirect),,Alternate side parking and meter regulations are suspended citywide tomorrow. #Sandy,RT @NYCMayorsOffice: Alternate side parking and meter regulations are suspended citywide tomorrow. #Sandy,Caution and advice,,lauritacruz47,,,
+227175963,FALSE,finalized,3,12/8/2012 19:56,"Mayor Bloomberg
+Mayor Bloomberg
+Mayor Bloomberg",A hurricane warning has been issued or has been lifted,0.3645,"The most severe part of the storm
+most severe part of the storm is now beginning
+severe part of the storm is now beginning","now
+now
+now","NYC
+NYC
+NYC",Informative (Indirect),,The most severe part of the storm is now beginning-Mayor Bloomberg. NYC #Sandy,"RT @MiaFarrow: ""The most severe part of the storm is now beginning""-Mayor Bloomberg. NYC #Sandy",Caution and advice,,longfellow520,,,
+227175964,FALSE,finalized,3,12/10/2012 6:12,"news
+the news
+N/A",A hurricane warning has been issued or has been lifted,0.3501,"Cumberland is going to get it hard tonight
+going to get it hard tonight by Sandy!!
+Cumberland is going to get it hard tonight by Sandy","tonight
+tonight
+tonight","Cumberland
+Cumberland
+Cumberland",Informative (Indirect),,On the news it says Cumberland is going to get it hard tonight by Sandy!!,RT @XONavajo: On the news it says Cumberland is going to get it hard tonight by Sandy!!,Caution and advice,,LovinMyMistakes,,,
+227175965,FALSE,finalized,3,12/8/2012 20:37,"Mayor Bloomberg
+Mayor Bloomberg
+Mayor Bloomberg",Other,1,"Please use 311 for downed trees and flooding
+use 311 for downed trees and flooding
+use 311 for downed trees and flooding not 911","N/A
+
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,"Mayor Bloomberg: ""Please use 311 for downed trees and flooding not 911."" #Sandy #NYC","RT @twc_hurricane: Mayor Bloomberg: ""Please use 311 for downed trees and flooding not 911."" #Sandy #NYC",Caution and advice,,MadameRamotswe,,,
+227175966,FALSE,finalized,3,12/10/2012 14:40,"N/A
+http://t.co/3yLWVeam
+http://t.co/3yLWVeam",Other,1,"airports reopen
+airports reopen after two days of cancellations
+Liberty airports reopen","after two days of cancellations
+after two days of cancellations
+two days","New York
+New York's #JFK and #Newark Liberty airports
+JFK Newark Liberty",Informative (Indirect),,New York's #JFK and #Newark Liberty airports reopen after two days of cancellations. La Guardia remains closed http://t.co/3yLWVeam #Sandy,RT @BBCWorld: New York's #JFK and #Newark Liberty airports reopen after two days of cancellations. La Guardia remains closed http://t.co/3yLWVeam #Sandy,Caution and advice,,MarcClimaco,,,
+227175967,FALSE,finalized,3,12/8/2012 20:57,"N/A
+NYC ALERT
+n/a",Other,1,"pets are accepted on the subway taxi and trains
+All pets are accepted on the subway taxi and trains during evacuation
+pets are accepted on the subway taxi and trains","during evacuation
+during evacuation
+during evacuation","NYC
+NYC
+NYC",Informative (Indirect),,NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,RT @ASPCA: NYC ALERT: All pets are accepted on the subway taxi and trains during evacuation. #Sandy #SandyPets,Caution and advice,,Marketa1981,,,
+227175968,FALSE,finalized,3,12/8/2012 19:00,"Mayor Bloomberg
+N/A
+n/a",Other,1,"offering an update on the city's response to #Sandy
+Mayor Bloomberg is offering an update
+Mayor Bloomberg is offering an update","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,NYC Mayor Bloomberg is offering an update on the city's response to #Sandy. You can tune in here: http://t.co/QWZpbEhv,NYC Mayor Bloomberg is offering an update on the city's response to #Sandy. You can tune in here: http://t.co/QWZpbEhv,Caution and advice,,MarketWatch,,,
+227175969,FALSE,finalized,3,12/8/2012 19:37,"Mayor Michael Bloomberg
+LIVE VIDEO
+LIVE VIDEO: NYC Mayor Michael Bloomberg",Other,1,"updates residents
+Mayor Michael Bloomberg updates residents on Hurricane
+updates residents on Hurricane #Sandy","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,LIVE VIDEO: NYC Mayor Michael Bloomberg updates residents on Hurricane #Sandy http://t.co/XtzsBslf,RT @NBCNews: LIVE VIDEO: NYC Mayor Michael Bloomberg updates residents on Hurricane #Sandy http://t.co/XtzsBslf,Caution and advice,,meggy009,,,
+227175970,FALSE,finalized,3,12/8/2012 19:41,"@NYGovCuomo
+@NYGovCuomo
+@NYGovCuomo",Other,1,"closing of NYC bridges
+@NYGovCuomo orders closing of NYC bridges
+closing of NYC bridges","by 7pm
+7pm
+7pm","NYC
+NYC
+NYC bridges",Informative (Indirect),,.@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,RT @weatherchannel: .@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,Caution and advice,,MichelleRafter,,,
+227175971,FALSE,finalized,3,12/10/2012 14:44,"N/A
+sandyonfox http://t.co/UQ6QYH09
+http://t.co/UQ6QYH09",Other,1,"All bridges tunnels in NYC closed except for Lincoln Tunnel
+bridges tunnels in NYC closed
+tunnels in NYC closed","N/A
+n/a
+n/A","NYC
+NYC
+NYC",Informative (Indirect),,All bridges tunnels in NYC closed except for Lincoln Tunnel. #sandyonfox http://t.co/UQ6QYH09,All bridges tunnels in NYC closed except for Lincoln Tunnel. #sandyonfox http://t.co/UQ6QYH09,Caution and advice,,MyFoxNY,,,
+227175972,FALSE,finalized,3,12/8/2012 19:41,"@NYGovCuomo
+n/a
+@NYGovCuomo",Other,0.7358,"closing of NYC bridges
+closing of NYC bridges
+closing of NYC bridges","by 7pm
+n/a
+7pm","NYC
+NYC
+NYC bridges",Informative (Indirect),,.@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,RT @weatherchannel: .@NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Bridges must close by 7pm. #Sandy #NYC,Caution and advice,,Nelmcadoo,,,
+227175973,FALSE,finalized,3,12/8/2012 20:37,"http://t.co/suAeqpui
+N/A
+http://t.co/suAeqpui",Other,0.6771,"BLIZZARD WARNINGS
+BLIZZARD WARNINGS IN WEST VIRGINIA
+BLIZZARD WARNINGS","
+N/A
+WHILE HURRICANE SANDY THREATENS","WEST VIRGINIA
+WEST VIRGINIA
+WEST VIRGINIA",Informative (Indirect),,BLIZZARD WARNINGS IN WEST VIRGINIA ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® WHILE HURRICANE SANDY THREATENS: http://t.co/suAeqpui,RT @gretawire: BLIZZARD WARNINGS IN WEST VIRGINIA ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® WHILE HURRICANE SANDY THREATENS: http://t.co/suAeqpui,Caution and advice,,normsantos,,,
+227175974,FALSE,finalized,3,12/8/2012 19:49,"http://t.co/A2mjbStn
+N/A
+Delta",Other,1,"plan to resume some NYC flights
+plan to resume some NYC flights
+plan to resume some NYC flights","Tuesday
+Tuesday
+on Tuesday","NYC
+NYC
+NYC",Informative (Indirect),,Delta has what seems like a very optimistic plan to resume some NYC flights on Tuesday: http://t.co/A2mjbStn,Delta has what seems like a very optimistic plan to resume some NYC flights on Tuesday: http://t.co/A2mjbStn,Caution and advice,,NYCAviation,,,
+227175975,FALSE,finalized,3,12/8/2012 20:28,"http://t.co/jJUy1y8F
+N/A
+http://t.co/jJUy1y8F",Other,0.7122,"Stay inside
+Stay inside try to relax don't go being macho and running into the water
+Stay inside try to relax","N/A
+N/A
+n/a","N/A
+N/A
+n/a",Informative (Indirect),,In sum: http://t.co/jJUy1y8F Stay inside try to relax don't go being macho and running into the water. #Sandy #MayorBloomberg,In sum: http://t.co/jJUy1y8F Stay inside try to relax don't go being macho and running into the water. #Sandy #MayorBloomberg,Caution and advice,,nycTrend,,,
+227175976,FALSE,finalized,3,12/8/2012 20:32,"CBS News
+CBS News
+CBS News: National GeographicLimited tra... http://t.co/t1j1hPKO",Other,0.6559,"Limited train service resuming
+Limited train service resuming
+Limited train service resuming","after superstorm Sandy
+after superstorm Sandy
+after superstorm Sandy","NYC
+NYC
+NYC",Informative (Indirect),,Limited train service resuming in NYC after superstorm Sandy - CBS News: National GeographicLimited tra... http://t.co/t1j1hPKO #newyork,Limited train service resuming in NYC after superstorm Sandy - CBS News: National GeographicLimited tra... http://t.co/t1j1hPKO #newyork,Caution and advice,,NYNewYorkCity,,,
+227175977,FALSE,finalized,3,12/8/2012 19:44,"http://t.co/cDuyLxA2
+n/a
+n/a",A hurricane sighting has been reported,0.6235,"Sandy approaching
+Sandy
+Sandy approaching","N/A
+n/a
+n/a","northeast U.S.
+northeast U.S.
+northeast U.S",Informative (Indirect),,Sandy approaching northeast U.S. http://t.co/cDuyLxA2,Sandy approaching northeast U.S. http://t.co/cDuyLxA2,Caution and advice,,optimismnow2,,,
+227175978,FALSE,finalized,3,12/10/2012 14:34,"@ZagatNYC
+ZagatNYC
+http://t.co/tAbiGqSo",Other,1,"restos playing it by ear during #Sandy
+restos playing it by ear during #Sandy
+list of what's open","during #Sandy
+playing it by ear
+n/A","NYC
+NYC
+NYC",Informative (Indirect),,MT @ZagatNYC: NYC restos playing it by ear during #Sandy. Props to @EaterNY on their list of what's open ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® http://t.co/tAbiGqSo @kale1919,MT @ZagatNYC: NYC restos playing it by ear during #Sandy. Props to @EaterNY on their list of what's open ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® http://t.co/tAbiGqSo @kale1919,Caution and advice,,PaulBell55,,,
+227175979,FALSE,finalized,3,12/8/2012 19:34,"N/A
+
+RedCross",Other,1,"Hurricane app can help you recover from #Sandy
+Hurricane app can help you recover
+Hurricane app can help you recover from #Sandy","N/A
+
+n/a","http://t.co/fYMpaDYc
+n/a
+http://t.co/fYMpaDYc",Informative (Indirect),,#RedCross Hurricane app can help you recover from #Sandy. Go to the Prepare tab then hit ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬AfterÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â. http://t.co/fYMpaDYc,RT @RedCross: #RedCross Hurricane app can help you recover from #Sandy. Go to the Prepare tab then hit ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬AfterÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â. http://t.co/fYMpaDYc,Caution and advice,,PiedmontHousing,,,
+227175980,FALSE,finalized,3,12/10/2012 14:23,"http://t.co/4qNCbnTW & http://t.co/gtQEoxjS
+n/a
+http://t.co/4qNCbnTW",A shelter is open or available,1,"safe place to stay
+shelter info avail.
+shelter","
+n/a
+N/A","n/a
+http://t.co/4qNCbnTW & http://t.co/gtQEoxjS.
+N/A",Informative (Indirect),,If you need a safe place to stay shelter info avail. in #Hurricane app http://t.co/4qNCbnTW & http://t.co/gtQEoxjS. #Sandy,RT @RedCross: If you need a safe place to stay shelter info avail. in #Hurricane app http://t.co/4qNCbnTW & http://t.co/gtQEoxjS. #Sandy,Caution and advice,,PoppenReport,,,
+227175981,FALSE,finalized,3,12/8/2012 19:29,"http://t.co/jfOwCb5o
+#IFWT Experts
+IFWT Experts",A hurricane warning has been issued or has been lifted,1,"When Hurricane Sandy Unleashes Her Fury
+8 O'Clock Is When Hurricane Sandy Unleashes Her Fury
+Hurricane Sandy Unleashes Her Fury","8 O'Clock
+8 O'Clock
+8 O'Clock","NYC
+NYC
+NYC",Informative (Indirect),,#IFWT Experts Say 8 O'Clock Is When Hurricane Sandy Unleashes Her Fury On NYC - http://t.co/jfOwCb5o,RT @funkmasterflex: #IFWT Experts Say 8 O'Clock Is When Hurricane Sandy Unleashes Her Fury On NYC - http://t.co/jfOwCb5o,Caution and advice,,RealMGillette,,,
+227175982,FALSE,finalized,3,12/10/2012 14:37,"@SkyNews
+@SkyNews
+@SkyNews",A hurricane sighting has been reported,1,"Hurricane Sandy hits landfall
+The latest as Hurricane Sandy hits landfall.
+hits landfall","throughout the night
+throughout the night
+throughout the night","N/A
+n/a
+n/A",Informative (Indirect),,The latest as Hurricane Sandy hits landfall. Rolling news coverage @SkyNews throughout the night,RT @skynewspip: The latest as Hurricane Sandy hits landfall. Rolling news coverage @SkyNews throughout the night,Caution and advice,,RNorthumberland,,,
+227175983,FALSE,finalized,3,12/10/2012 6:12,"@weatherchannel: @NYGovCuomo
+@weatherchannel
+NYGovCuomo",Other,1,"closing of NYC bridges
+NYGovCuomo orders closing of NYC bridges
+closing of NYC bridges","by 7pm
+by 7pm.
+7pm","NYC
+NYC
+NYC",Informative (Indirect),,RT @weatherchannel: @NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Must close by 7pm. #Sandy,RT @AsburyParkPress: RT @weatherchannel: @NYGovCuomo orders closing of NYC bridges. Only Staten Island bridges unaffected at this time. Must close by 7pm. #Sandy,Caution and advice,,rumsoncds,,,
+227175984,FALSE,finalized,3,12/8/2012 20:24,"http://t.co/K3T7t91E
+N/A
+http://t.co/K3T7t91E",A shelter is open or available,1,"List of NJ PA and DE shelters
+List of NJ PA and DE shelters
+List of NJ PA and DE shelters","N/A
+N/A
+n/a","NJ PA and DE
+NJ PA and DE
+NJ PA and DE",Informative (Indirect),,ALERT: List of NJ PA and DE shelters - including those that are pet friendly http://t.co/K3T7t91E #sandy #sandypets,RT @ASPCA: ALERT: List of NJ PA and DE shelters - including those that are pet friendly http://t.co/K3T7t91E #sandy #sandypets,Caution and advice,,SallyMos,,,
+227175985,FALSE,finalized,3,12/8/2012 19:14,"http://t.co/N5ruP5z8
+N/A
+n/a",A hurricane warning has been issued or has been lifted,0.7122,"Sandy is coming
+Sandy is coming and it is full of anger!
+Sandy is coming","N/A
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,#Sandy is coming and it is full of anger! #Storm #NYC http://t.co/N5ruP5z8,#Sandy is coming and it is full of anger! #Storm #NYC http://t.co/N5ruP5z8,Caution and advice,,satantoine,,,
+227175986,FALSE,finalized,3,12/8/2012 20:57,"mike bloomberg
+mike bloomberg
+mike bloomberg",Other,1,"the time for evacuation
+time for evacuation is now over
+time for evacuation is now over","now over
+now
+now","nyc
+NYC
+nyc",Informative (Indirect),,the time for evacuation is now over - mike bloomberg. | #nyc #sandy,the time for evacuation is now over - mike bloomberg. | #nyc #sandy,Caution and advice,,shaunrandol,,,
+227175987,FALSE,finalized,3,12/8/2012 20:28,"http://t.co/lYJ7xUrB
+N/A
+http://t.co/lYJ7xUrB",Other,1,"Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled
+All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled
+All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled","Monday 10/29 and Tuesday 10/30
+Monday 10/29 and Tuesday 10/30
+Monday 10/29 and Tuesday 10/30","NYC
+NYC
+NYC",Informative (Indirect),,UPDATE: All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled. #Sandy More info: http://t.co/lYJ7xUrB,RT @TheBwayLeague: UPDATE: All Broadway performances in NYC Monday 10/29 and Tuesday 10/30 have been cancelled. #Sandy More info: http://t.co/lYJ7xUrB,Caution and advice,,Shirlz1123,,,
+227175988,FALSE,finalized,3,12/8/2012 19:49,"http://t.co/WEF3U3PL
+USA TODAY
+USA TODAY: ABC News",Other,1,"Christie postpones Halloween celebrations
+Christie postpones Halloween celebrations
+Christie postpones Halloween celebrations","N/A
+N/A
+Halloween","New Jersey
+New Jersey
+New Jersey",Informative (Indirect),,Christie postpones Halloween celebrations in New Jersey - USA TODAY: ABC NewsChristie postpones Halloween celebr... http://t.co/WEF3U3PL,Christie postpones Halloween celebrations in New Jersey - USA TODAY: ABC NewsChristie postpones Halloween celebr... http://t.co/WEF3U3PL,Caution and advice,,ShowCars1,,,
+227175989,FALSE,finalized,3,12/8/2012 19:56,"http://t.co/REmduOnv
+@BudgetTravel
+@BudgetTravel",Other,1,"Stranded because of #Sandy?
+Stranded because of #Sandy? Here's what you need to know
+Stranded because of #Sandy? Here's what you need to know","N/A
+N/A
+n/a","N/A
+N/A
+n/a",Informative (Indirect),,RT @BudgetTravel: Stranded because of #Sandy? Here's what you need to know--#airline by airline http://t.co/REmduOnv #Frankenstorm,RT @dfwairport: RT @BudgetTravel: Stranded because of #Sandy? Here's what you need to know--#airline by airline http://t.co/REmduOnv #Frankenstorm,Caution and advice,,SKSMediaCanada,,,
+227175990,FALSE,finalized,3,12/8/2012 20:34,"N/A
+@UN
+http://t.co/0p90eZIa",Other,1,"UNHQ in NYC will be also be closed
+UNHQ in NYC will be also be closed on Tuesday
+UNHQ in NYC will be also be closed","Tuesday
+Tuesday
+Tuesday","NYC
+NYC
+UNHQ in NYC",Informative (Indirect),,RT @UN: UNHQ in NYC will be also be closed on Tuesday due to Hurricane #Sandy. More info here: http://t.co/0p90eZIa,RT @UN: UNHQ in NYC will be also be closed on Tuesday due to Hurricane #Sandy. More info here: http://t.co/0p90eZIa,Caution and advice,,sncyf,,,
+227175991,FALSE,finalized,3,12/8/2012 19:00,"N/A
+N/A
+n/a",A hurricane warning has been issued or has been lifted,0.6523,"Any time over the next hour It should be here #sandy
+Any time over the next hour It should be here
+It should be here","Any time over the next hour
+Any time over the next hour
+over the next hour","NYC
+NYC
+NYC",Informative (Indirect),,Any time over the next hour It should be here #sandy #NYC,Any time over the next hour It should be here #sandy #NYC,Caution and advice,,Sorcha_Ellie,,,
+227175992,FALSE,finalized,3,12/8/2012 19:14,"Mayor Bloomberg
+@thematthewkeys
+thematthewkeys: NYC Mayor Bloomberg",Other,1,"ConEd may shut down power
+ConEd may shut down power in southern Brooklyn and lower Manhattan
+may shut down power","N/A
+N/A
+n/a","southern Brooklyn and lower Manhattan
+southern Brooklyn and lower Manhattan
+southern Brooklyn and lower Manhattan",Informative (Indirect),,RT @thematthewkeys: NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,RT @breakingweather: RT @thematthewkeys: NYC Mayor Bloomberg: ConEd may shut down power in southern Brooklyn and lower Manhattan. #Sandy,Caution and advice,,StephTweet,,,
+227175993,FALSE,finalized,3,12/10/2012 14:30,"http://t.co/WWmlZvHe
+http://t.co/WWmlZvHe
+http://t.co/WWmlZvHe",Other,1,"Public transit closed
+Public transit in NYC will be closed
+Public transit will be closed","tomorrow morning
+tomorrow morning and remain closed throughout the day
+tomorrow morning","NYC
+NYC
+NYC",Informative (Indirect),,Public transit in NYC will be closed tomorrow morning and remain closed throughout the day. http://t.co/WWmlZvHe #Sandy,RT @AntDeRosa: Public transit in NYC will be closed tomorrow morning and remain closed throughout the day. http://t.co/WWmlZvHe #Sandy,Caution and advice,,Stevie_Bo,,,
+227175994,FALSE,finalized,3,12/8/2012 19:00,"NYC Mayor Bloomberg
+NYC Mayor Bloomberg
+Mayor Bloomberg",Other,1,"City employees should work
+City employees should come to work provided they can do so safely
+employees should come to work","
+N/A
+n/a","NYC
+NYC
+NYC",Informative (Indirect),,NYC Mayor Bloomberg: City employees should come to work provided they can do so safely. #Sandy,RT @TheMatthewKeys: NYC Mayor Bloomberg: City employees should come to work provided they can do so safely. #Sandy,Caution and advice,,SupermanHotMale,,,
+227175995,FALSE,finalized,3,12/10/2012 14:37,"n/a
+http://t.co/gZUyn3uQ
+http://t.co/gZUyn3uQ",Other,1,"Bellevue Hospital
+Hospital Set to Evacuate
+Set to Evacuate","n/a
+After Sandy
+After Sandy","New York
+New York's Bellevue Hospital
+New York's Bellevue Hospital",Informative (Indirect),,Prayers!! RT @jacquereid: RT @ABC: New York's Bellevue Hospital Set to Evacuate After Sandy http://t.co/gZUyn3uQ,Prayers!! RT @jacquereid: RT @ABC: New York's Bellevue Hospital Set to Evacuate After Sandy http://t.co/gZUyn3uQ,Caution and advice,,Syreta,,,
+227175996,FALSE,finalized,3,12/10/2012 6:12,"http://t.co/XEYNBgW0
+http://t.co/XEYNBgW0
+http://t.co/XEYNBgW0",Other,1,"All federal government offices in and around Washington will be closed
+government offices in and around Washington will be closed
+federal government offices in and around Washington will be closed","Tuesday
+Tuesday
+Tuesday","in and around Washington
+in and around Washington
+Washington",Informative (Indirect),,All federal government offices in and around Washington will be closed Tuesday. #HurricaneSandy http://t.co/XEYNBgW0,RT @cnnbrk: All federal government offices in and around Washington will be closed Tuesday. #HurricaneSandy http://t.co/XEYNBgW0,Caution and advice,,UUgeh,,,
+227175997,FALSE,finalized,3,12/10/2012 14:44,"@NYTMetro
+@NYTMetro
+http://t.co/oi2lnGTm",Other,0.6631,"Limited commuter rail service to resume
+Limited commuter rail service to resume
+rail service to resume","2 p.m. Wednesday
+2 p.m. Wednesday
+2 p.m","New York
+New York
+New York",Informative (Indirect),,RT @NYTMetro: Limited commuter rail service to resume in New York at 2 p.m. Wednesday http://t.co/oi2lnGTm,RT @nytimes: RT @NYTMetro: Limited commuter rail service to resume in New York at 2 p.m. Wednesday http://t.co/oi2lnGTm,Caution and advice,,VivaLaSlim,,,
+227175998,FALSE,finalized,3,12/8/2012 20:50,"Mayor Bloomberg
+@NYMag
+@NYMag: Mayor Bloomberg",A hurricane warning has been issued or has been lifted,0.3614,"most severe part of the hurricane
+most severe part of the hurricane is now beginning
+The most severe part of the hurricane is now beginning","now beginning
+now
+now","NYC
+NYC
+NYC",Informative (Indirect),,RT @NYMag: Mayor Bloomberg: The most severe part of the hurricane is now beginning. #NYC still v. much within danger zone. #Sandy,RT @emoticomma: RT @NYMag: Mayor Bloomberg: The most severe part of the hurricane is now beginning. #NYC still v. much within danger zone. #Sandy,Caution and advice,,wlynnae,,,
+227175999,FALSE,finalized,3,12/8/2012 19:09,"http://t.co/GefqGlfb
+N/A
+n/a",Other,1,"Airports and stock exchange reopen
+Airports and stock exchange reopen
+Airports and stock exchange reopen; NJ devastated","N/A
+N/A
+n/a","NJ
+NJ
+NJ",Informative (Indirect),,LATEST | Airports and stock exchange reopen; NJ devastated: Two major airports reopened and the floor of the New... http://t.co/GefqGlfb,LATEST | Airports and stock exchange reopen; NJ devastated: Two major airports reopened and the floor of the New... http://t.co/GefqGlfb,Caution and advice,,TheSunNews,,,

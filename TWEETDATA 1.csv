@@ -1,0 +1,1328 @@
+_unit_id,_golden,_unit_state,trusted_judgements,last_judgment_at,people_injured_or_dead,people_or_infrastructure,confidence_score,infrastructure_damage,category,hom_many_injured_or_dead_if_people_gold,people_or_infrastructure_gold,Actual_unr_tweets,tweet,type,user,what_infrastructure_was_damaged_if_infrastructure_gold,category_rating
+227175113,True,golden,12,11/23/2012 14:36,"28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28",People: dead,1.0,"
+
+
+
+
+
+
+
+
+
+
+",Informative (Direct or Indirect),28,People: dead,28 deaths due to Hurricane Sandy | Charlotte taking a twitbreak | Ellen probably dead | Worst day ever.,RT @HenderGrande: 28 deaths due to Hurricane Sandy | Charlotte taking a twitbreak | Ellen probably dead | Worst day ever.,Casualties and damage,1EmmaHenderson,,0
+227175114,True,golden,12,11/23/2012 13:13,"50
+50
+50
+50 people nationwide 18 were New York City residents
+50
+50
+50
+18
+50
+50
+50
+50",Both people and infrastructure,0.7143,"homes
+
+8 million homes
+8 million homes still without power across 17 states
+homes without power
+power
+power
+power
+
+homes
+power
+",Informative (Direct or Indirect),"50
+kills 50 people nationwide
+50 people nationwide 18 were New York City residents
+50,18","People: dead
+Both people and infrastructure",Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.,Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.,Casualties and damage,9NEWS," 8 million homes still without power
+8 million homes still without power across 17 states
+without power across 17 states.
+8 million homes
+homes without power
+8 million
+8 million homes still without power",0
+227175115,True,golden,7,11/23/2012 9:09,"
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.5353,"
+scaffolding toppling car
+shot of scaffolding toppling car
+car
+car
+car
+Wider shot of scaffolding toppling car on CPW and 92nd across from Central ParkNYC",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",RT @nowthised: Wider shot of scaffolding toppling car on CPW and 92nd across from Central ParkNYC @nowthisnews #sandy http://t.co/ivkExinW,RT @twc_hurricane: RT @nowthised: Wider shot of scaffolding toppling car on CPW and 92nd across from Central ParkNYC @nowthisnews #sandy http://t.co/ivkExinW,Casualties and damage,AbrahamAkiva,"scaffolding toppling car
+shot of scaffolding toppling car
+car",0
+227175116,True,golden,11,11/23/2012 13:20,"
+
+
+
+none
+
+toll climbs
+
+
+
+toll climbs",Both people and infrastructure,0.5651,"homes
+power, homes
+Thousands of homes
+homes
+thousands of homes
+millions remain without power. Thousands of homes are flooded others destroyed
+homes are flooded others destroyed
+homes
+Thousands of homes
+power,Thousands of homes are flooded
+millions remain without power. Thousands of homes are flooded others destroyed",Informative (Direct or Indirect),"N/A
+N/a",Both people and infrastructure,Sandy death toll climbs; millions remain without power. Thousands of homes are flooded others destroyed.,Sandy death toll climbs; millions remain without power. Thousands of homes are flooded others destroyed.,Casualties and damage,alexandermimi,"millions remain without power = electricity damaged; Thousands of homes are flooded others destroyed
+Thousands of homes are flooded others destroyed.
+Thousands of homes are flooded others destroyed
+millions remain without power. Thousands of homes are flooded others destroyed
+thousands of homes
+homes are flooded others destroyed
+power, homes
+homes
+Thousands of homes",0
+227175117,True,golden,15,11/23/2012 14:25,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Extensive flooding in all subway tunnels
+Extensive flooding in all subway tunnels
+Extensive flooding in all subway tunnels
+extensive flooding in all the sub ways
+flooding in all subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+subway tunnels
+flooding in all subway tunnels
+all subway tunnels
+flooding in all subway tunnels
+subway tunnels",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",Extensive flooding in all subway tunnels says Bloomberg. It's going to be a big problem to get them back going. #sandy,RT @emmagkeller: Extensive flooding in all subway tunnels says Bloomberg. It's going to be a big problem to get them back going. #sandy,Casualties and damage,alischaw,"all subway tunnels
+Extensive flooding in all subway tunnels
+subway tunnels
+Extensive flooding in all subway tunnels says Bloomberg. I
+Extensive flooding
+flooding in subway channels
+extensive flooding in all the sub ways
+flooding in all subway tunnels
+flooding",0
+227175118,True,golden,12,11/23/2012 13:59,"40
+40
+40 people
+40
+40
+40
+40
+40
+40
+46
+40
+40",People: dead,1.0,"
+
+
+
+
+
+
+
+
+
+
+",Informative (Direct or Indirect),40,People: dead,40 people killed during Super Storm Sandy! Don't understand how in a major city they didnt stay indoors or found a shelter!,40 people killed during Super Storm Sandy! Don't understand how in a major city they didnt stay indoors or found a shelter!,Casualties and damage,CalumWilcock,,0
+227175119,True,golden,9,11/23/2012 14:15,"
+
+
+
+
+
+New Jersey sewage plant hit
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"sewage plant
+sewage plant
+New Jersey sewage plant hit
+sewage plant
+sewage plant
+sewage plant
+
+sewage plant
+sewage plant",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",+++BREAKING+++ New Jersey sewage plant hit by #Sandy. Ultimate shitstorm imminent for the East Coast! +++BREAKING+++,+++BREAKING+++ New Jersey sewage plant hit by #Sandy. Ultimate shitstorm imminent for the East Coast! +++BREAKING+++,Casualties and damage,couchpotato_es2,sewage plant,0
+227175120,True,golden,10,11/23/2012 14:38,"
+
+
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6308,"
+boat
+Metro-North's Ossining station
+
+boat
+boat
+boat lies across the railroad tracks
+
+
+boat lies across the railroad tracks",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",A boat lies across the railroad tracks near Metro-North's Ossining station. http://t.co/952JfSHe #Sandy #SandyNYC,RT @aadragna: A boat lies across the railroad tracks near Metro-North's Ossining station. http://t.co/952JfSHe #Sandy #SandyNYC,Casualties and damage,CrawfordRainaL,boat ,0
+227175121,True,golden,8,11/23/2012 13:20,"
+
+none
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7965,"
+
+UN documents historical collections
+UN documents historical collection that might have been damaged
+UN documents historical collection
+historical collection
+#UN documents historical collection
+#UN documents historical collection",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",We are worried about the #UN documents historical collection that might have been damaged by #Sandy. We will keep you posted.,RT @UNLibrary: We are worried about the #UN documents historical collection that might have been damaged by #Sandy. We will keep you posted.,Casualties and damage,Danzig661,"UN documents historical collection
+historical collection
+#UN documents historical collection
+UN documents historical collections
+the #UN documents historical collection
+UN documents historical collection that might have been damaged",0
+227175122,False,golden,3,11/22/2012 17:56,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"the aquarium building itself is fine
+aquarium building
+aquarium building",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage
+Not damage-related",@leeannderthol No the aquarium building itself is fine and there have been no reports of lost animals. http://t.co/yU3tFibK,@leeannderthol No the aquarium building itself is fine and there have been no reports of lost animals. http://t.co/yU3tFibK,Casualties and damage,djramone13,aquarium building,0
+227175123,True,golden,9,11/23/2012 14:19,"
+
+none
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+collapsed crane dangling from a building
+crane
+collapsed crane dangling from a building
+crane
+collapsed crane
+collapsed crane
+crane
+crane",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,dominicdileo,crane,0
+227175124,False,golden,6,11/22/2012 16:31,"
+0
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.3719,"
+
+power
+
+Weston Without Power
+Without Power",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",Nearly All Of Weston Without Power After Hurricane Sandy Tues AM http://t.co/SFaCqMFv,Nearly All Of Weston Without Power After Hurricane Sandy Tues AM http://t.co/SFaCqMFv,Casualties and damage,EastonDV,"Power
+Weston Without Power
+Weston
+Without Power",0
+227175125,True,golden,10,11/23/2012 13:55,"94
+94
+94
+94
+94
+94
+94
+94
+94
+94",People: dead,0.9098,"
+
+
+
+
+
+
+
+homes and the New York subway system
+",Informative (Direct or Indirect),94,People: dead,Latest death toll from #Sandy is 94 overall including 26 in the U.S. http://t.co/0aJUD1SS,RT @cnnbrk: Latest death toll from #Sandy is 94 overall including 26 in the U.S. http://t.co/0aJUD1SS,Casualties and damage,GabrielaNicole_,,0
+227175126,False,golden,6,11/22/2012 17:52,"
+
+
+
+
+",Not damage-related,0.8321,"
+
+
+
+
+",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",The four zoos in NYC say not a single animal was injured in #Sandy (via @LaraSpencer) ^L,RT @gma: The four zoos in NYC say not a single animal was injured in #Sandy (via @LaraSpencer) ^L,Casualties and damage,gfreeislife,zoos,0
+227175127,True,golden,3,11/23/2012 15:16,"2, 1, 1, 1, 5
+2 deaths in New Jersey 1 in Connecticut 1 in West Virginia 1 off NC coast in addition to 5 deaths in NY
+10",People: dead,1.0,"
+
+",Informative (Direct or Indirect),"2, 1, 1, 1, 5",People: dead,2 deaths in New Jersey 1 in Connecticut 1 in West Virginia 1 off NC coast in addition to 5 deaths in NY because of #Sandy,RT @GoogleFacts: 2 deaths in New Jersey 1 in Connecticut 1 in West Virginia 1 off NC coast in addition to 5 deaths in NY because of #Sandy,Casualties and damage,hassan_io,,0
+227175128,True,golden,9,11/23/2012 14:36,"
+
+
+
+
+
+
+Sandy fury
+N/A",People: dead,0.8955,"
+
+
+
+
+
+
+
+",Informative (Direct or Indirect),,People: dead,Sandy fury kills in NY. Hmm balasan tuhan kot sbb the 'innocence of muslims',RT @maiymartiny: Sandy fury kills in NY. Hmm balasan tuhan kot sbb the 'innocence of muslims',Casualties and damage,husnajer,,0
+227175129,True,golden,14,11/23/2012 14:36,"
+
+
+
+
+
+
+
+
+
+
+
+
+",Not specified (maybe people or infrastructure),0.3713,"Sandy casualty #frankenstorm #nyc #westvillage
+
+
+
+
+
+trees road
+
+
+
+#frankenstorm #nyc #westvillage
+#frankenstorm #nyc #westvillage
+
+westvillage",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage
+Not specified (maybe people or infrastructure)",Sandy casualty #frankenstorm #nyc #westvillage http://t.co/gy9s6nwW,Sandy casualty #frankenstorm #nyc #westvillage http://t.co/gy9s6nwW,Casualties and damage,J_Hubbell,,0
+227175130,False,golden,4,11/23/2012 14:21,"7588
+7588
+7588
+7588",People: dead,1.0,"
+
+
+",Informative (Direct or Indirect),"7588 
+7588 deaths 604045 cases
+7588 deaths 604045 cases",People: dead,#Cholera update 10/19: 7588 deaths 604045 cases. Over 100 cases in PaP alone each of last 4 days of reporting. Only get worse w/ #sandy.,#Cholera update 10/19: 7588 deaths 604045 cases. Over 100 cases in PaP alone each of last 4 days of reporting. Only get worse w/ #sandy.,Casualties and damage,JakobJohnston,"Cholera
+deaths",0
+227175131,True,golden,10,11/23/2012 13:43,"
+
+
+
+
+
+
+
+
+",Not damage-related,0.5069,"FEMA
+
+
+
+
+
+
+
+FEMA stands
+",Informative (Direct or Indirect),,Not damage-related,If #Sandy causes major damage FEMA stands ready to deliver Soy Lattes to NYC's Upper West Side.,RT @JohnFugelsang: If #Sandy causes major damage FEMA stands ready to deliver Soy Lattes to NYC's Upper West Side.,Casualties and damage,Jetsetter23,,0
+227175132,True,golden,8,11/23/2012 14:22,"
+
+
+
+
+
+
+",Not damage-related,0.6751,"building
+Empire State Building
+
+
+
+
+
+",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH,RT @JustinKing224: This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH,Casualties and damage,Killamop,power,0
+227175133,True,golden,11,11/23/2012 13:31,"
+
+300000
+
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7402,"power
+Nearly 300000 customers are WITHOUT power
+
+300000 customers are WITHOUT power in 7 states
+WITHOUT power
+power
+electricity distribution network
+power
+
+power
+power",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",JUST IN: Nearly 300000 customers are WITHOUT power in 7 states where Hurricane #Sandy is having an impact. NJ has the most at 92000.,RT @CNNweather: JUST IN: Nearly 300000 customers are WITHOUT power in 7 states where Hurricane #Sandy is having an impact. NJ has the most at 92000.,Casualties and damage,lovemuhfaves,power,0
+227175134,False,golden,5,11/22/2012 15:12,"
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.8886,"
+Subways
+Subways
+Subways
+subways",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage
+Not damage-related",NYC is a disaster. Nothing like this since 9-11. Subways will be shut down for days. What a nightmare. Thanks for nothing #Sandy.,NYC is a disaster. Nothing like this since 9-11. Subways will be shut down for days. What a nightmare. Thanks for nothing #Sandy.,Casualties and damage,Mizchefcooks,,0
+227175135,True,golden,2,11/23/2012 2:58,"at least 50
+50",Both people and infrastructure,1.0,"power
+power",Informative (Direct or Indirect),at least 50,Both people and infrastructure,#Sandy latest: at least 50 people dead more than 8-million w/o power in 17 states 61000 New Yorkers are staying in shelters.,RT @AnaCabrera: #Sandy latest: at least 50 people dead more than 8-million w/o power in 17 states 61000 New Yorkers are staying in shelters.,Casualties and damage,MShafferforHD51,power,0
+227175136,True,golden,11,11/23/2012 14:24,"
+
+
+
+
+
+
+
+
+
+",Not specified (maybe people or infrastructure),0.5693,"
+
+
+weird picture of a stick on the link
+
+
+
+
+The aftermath
+
+",Informative (Direct or Indirect),,"Not specified (maybe people or infrastructure)
+Not damage-related",The aftermath of hurricane sandy #ohman http://t.co/5wFfXsRH,The aftermath of hurricane sandy #ohman http://t.co/5wFfXsRH,Casualties and damage,mullen74d,,0
+227175137,True,golden,10,11/23/2012 13:13,"36
+36
+36
+36
+36 deaths
+36
+36
+36
+36
+36",People: dead,1.0,"
+
+
+
+
+
+
+
+
+",Informative (Direct or Indirect),36,People: dead,36 deaths already from hurricane Sandy so sad. My prayers go out to all the people that were impacted #Sandy #praying,36 deaths already from hurricane Sandy so sad. My prayers go out to all the people that were impacted #Sandy #praying,Casualties and damage,oliviaa_27,,0
+227175138,True,golden,11,11/23/2012 14:36,"
+
+
+
+
+
+
+
+
+
+bldgs on 56 & 57th st bet","Infrastructure (building, bridge, road, etc.) damage",0.9108,"bldgs
+crane collapse
+bldgs
+crane collapse
+blgs are collapsed
+crane
+crane
+crane collapse
+crane collapse
+crane
+bldgs on 56 & 57th st",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc,bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc,Casualties and damage,RickSanchezTV,"crane
+building
+bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel
+bldgs on 56 & 57th st bet 6 & 7th aves
+bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse
+bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel.
+bldgs
+bldgs on 56 & 57th st
+crane collapse
+crane",0
+227175139,False,golden,4,11/22/2012 18:16,"87
+69
+69
+69, 15, 3",People: dead,1.0,"
+
+
+",Informative (Direct or Indirect),"69, 15, 3
+69 People In The Caribbean 15 People
+69 People In The Caribbean 15 People In NY & 3 People In NJ
+People: injured and dead
+87 people",People: dead,"Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect .""","RT @Jersey_Head: Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect .""",Casualties and damage,Shauna_too_dope,"Sandy Killed
+The Caribbean",0
+227175140,False,golden,6,11/23/2012 2:56,"
+
+
+No fatalities in #Sandy so far in NYC.
+
+",Not damage-related,0.6526,"
+
+
+
+
+",Informative (Direct or Indirect),0,Not damage-related,Winning. RT @WSJweather: No fatalities in #Sandy so far in NYC.,RT @moneyries: Winning. RT @WSJweather: No fatalities in #Sandy so far in NYC.,Casualties and damage,shultz_julia,,0
+227175141,True,golden,11,11/23/2012 13:13,"
+
+
+
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7398,"homes
+home
+homes
+people's homes are on state highways
+66
+homes
+homes
+homes
+People's homes are on state highways
+
+People's homes",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage
+Both people and infrastructure",Hurricane Sandy has done some serious damage in the NY/NJ area. People's homes are on state highways!,Hurricane Sandy has done some serious damage in the NY/NJ area. People's homes are on state highways!,Casualties and damage,tG_ViNSaNiTy,"homes
+People's homes are on state highways!
+home",0
+227175142,True,golden,12,11/23/2012 14:07,"39
+39
+39 dead
+39
+39
+39
+At least 39
+39
+39
+39
+39
+39",People: dead,0.518,"
+
+
+
+
+power
+power
+power
+
+millions without power
+millions without power
+millions without power",Informative (Direct or Indirect),"at least 39
+39 dead
+At least 39
+least 39 dead
+39","People: dead
+Both people and infrastructure",At least 39 dead millions without power in Sandy's aftermath. http://t.co/NfqV1oYV,At least 39 dead millions without power in Sandy's aftermath. http://t.co/NfqV1oYV,Casualties and damage,yahoofrases,"power
+without power in Sandy's aftermath
+millions without power",0
+227175145,True,golden,8,11/23/2012 13:13,"
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6725,"
+power
+
+power
+without power
+
+Most of manhattan below 39st
+",Informative (Direct or Indirect),,"Infrastructure (building, bridge, road, etc.) damage",Most of manhattan below 39st is still without power #nyc #sandy,RT @LBOOGSHH: Most of manhattan below 39st is still without power #nyc #sandy,Casualties and damage,YoJWhatsUp,power,0
+227175146,True,golden,12,11/23/2012 14:36,"
+
+
+
+
+
+
+
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"police clearing streets
+midtown building is losing glass
+building
+midtown building
+Wind
+building
+building
+midtown building
+midtown building is losing glass
+midtown building is losing glass
+midtown building is losing glass
+midtown building",Informative (Direct),,"Infrastructure (building, bridge, road, etc.) damage",Wind a big problem in NYC. This midtown building is losing glass police clearing streets now #sandy http://t.co/Qv6lQIzT,RT @ryansmithtv: Wind a big problem in NYC. This midtown building is losing glass police clearing streets now #sandy http://t.co/Qv6lQIzT,Casualties and damage,bennyfactor,"building
+midtown building is losing glass
+This midtown building is losing glass
+midtown building",1
+227175147,False,finalized,4,11/23/2012 15:16,"crane collapse
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"
+crane
+crane
+crane",Informative (Direct),,,bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc,RT @RickSanchezTV: bldgs on 56 & 57th st bet 6 & 7th aves evacuated due to crane collapse--inc hotel. Staging area set up by police & fire. #sandy #nyc,Casualties and damage,claudiazl,,1
+227175148,False,finalized,3,11/23/2012 2:52,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Superstorm Sandy pain with power outages high winds waves
+power
+power",Informative (Direct),,,Michigan feels Superstorm Sandy pain with power outages high winds waves http://t.co/OjgQfaC1 #green #news,Michigan feels Superstorm Sandy pain with power outages high winds waves http://t.co/OjgQfaC1 #green #news,Casualties and damage,ehsnewsorg,,1
+227175149,False,finalized,3,11/23/2012 9:35,"
+
+",People: dead,1.0,"
+
+",Informative (Direct),,,Dear @AP people died from #Sandy in places other than the USA.,RT @wheeliesmom: Dear @AP people died from #Sandy in places other than the USA.,Casualties and damage,haloefekti,,1
+227175150,False,finalized,4,11/23/2012 14:38,"
+
+
+",Not damage-related,0.5008,"
+tree
+
+trees",Informative (Direct),,,Lots of trees down in our nabe but no serious damage I've yet seen. Jackson Heights QNS #nyc #sandy http://t.co/pUiWapd0,Lots of trees down in our nabe but no serious damage I've yet seen. Jackson Heights QNS #nyc #sandy http://t.co/pUiWapd0,Casualties and damage,illuminantceo,,1
+227175151,False,finalized,4,11/23/2012 9:19,"
+
+
+",Not specified (maybe people or infrastructure),0.505,"
+
+Awnings
+",Informative (Direct),,,Awnings down. #sandy #nyc http://t.co/ILJWG7KR,Awnings down. #sandy #nyc http://t.co/ILJWG7KR,Casualties and damage,JaimeeRose,,1
+227175152,False,finalized,3,11/23/2012 14:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+Crane
+Crane",Informative (Direct),,,Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR,RT @MELANIATRUMP: Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR,Casualties and damage,jigsketch,,1
+227175153,False,finalized,4,11/23/2012 15:16,"
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7477,"
+car
+Cop car
+car",Informative (Direct),,,MT @jsjohnst: #flood Cop car in the middle of street has water up over the bottom of the car. #loc Avenue C & 23rd Street #Sandy #nyc,MT @jsjohnst: #flood Cop car in the middle of street has water up over the bottom of the car. #loc Avenue C & 23rd Street #Sandy #nyc,Casualties and damage,kate30_dev,,1
+227175154,False,finalized,3,11/23/2012 14:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane dangling from a building
+crane
+crane",Informative (Direct),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,LiamNee,,1
+227175155,False,finalized,3,11/23/2012 9:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane
+crane
+collapsed crane dangling from a building",Informative (Direct),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,LoweyWard,,1
+227175156,False,finalized,3,11/23/2012 13:59,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6818,"Tree
+
+Tree",Informative (Direct),,,MT @ZaidaGrunes: #ParkSlope #Brooklyn Huge Downed Tree taken by @jayobey93 #Sandy #Frankenstorm #NYC @DNAinfo http://t.co/uzZQe1Ee,MT @ZaidaGrunes: #ParkSlope #Brooklyn Huge Downed Tree taken by @jayobey93 #Sandy #Frankenstorm #NYC @DNAinfo http://t.co/uzZQe1Ee,Casualties and damage,MathewKatz,,1
+227175157,False,finalized,3,11/23/2012 3:14,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"street
+street
+street",Informative (Direct),,,my street is almost starting to flood like by the end of the day #sandy woo :P,my street is almost starting to flood like by the end of the day #sandy woo :P,Casualties and damage,ms_horan93,,1
+227175158,False,finalized,3,11/23/2012 9:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane
+Crane
+Crane on 57 street collapsed",Informative (Direct),,,Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR,RT @MELANIATRUMP: Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR,Casualties and damage,pindabaas,,1
+227175159,False,finalized,4,11/23/2012 14:38,"
+
+
+",Not specified (maybe people or infrastructure),0.5318,"
+
+debris
+debris is everywhere",Informative (Direct),,,Most of the water in NYC had receded but debris is everywhere. Movement around LI is going to be difficult at best. #sandy,Most of the water in NYC had receded but debris is everywhere. Movement around LI is going to be difficult at best. #sandy,Casualties and damage,StormhunterTWN,,1
+227175160,False,finalized,3,11/23/2012 2:50,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+crane
+crane",Informative (Direct),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,ThinkinAmerican,,1
+227175161,False,finalized,3,11/23/2012 14:25,"At least 39
+39
+39",Both people and infrastructure,0.6724,"power
+millions without power
+",Informative (Indirect),,,At least 39 dead millions without power in Sandy's aftermath. http://t.co/Wdvz8KK8,At least 39 dead millions without power in Sandy's aftermath. http://t.co/Wdvz8KK8,Casualties and damage,_3091004140882,,2
+227175162,False,finalized,3,11/23/2012 14:27,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,777acjw,,2
+227175163,False,finalized,3,11/23/2012 2:58,"
+
+",Not damage-related,1.0,"
+
+",Informative (Indirect),,,ok .. things aren't looking too bad for the GTA right now .. http://t.co/0lZOx9mA,RT @sassjordan: ok .. things aren't looking too bad for the GTA right now .. http://t.co/0lZOx9mA,Casualties and damage,953KROCK,,2
+227175164,False,finalized,3,11/23/2012 13:59,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"tanker
+tanker
+washes up tanker onto New York's Staten Island",Informative (Indirect),,,Superstorm #Sandy washes up tanker onto New York's Staten Island. Photo: http://t.co/MNxRVJhf (via @GMA),RT @BBCBreaking: Superstorm #Sandy washes up tanker onto New York's Staten Island. Photo: http://t.co/MNxRVJhf (via @GMA),Casualties and damage,99prcnt47percnt,,2
+227175165,False,finalized,4,11/23/2012 14:38,"
+
+
+",Not specified (maybe people or infrastructure),0.515,"
+
+broken link
+",Informative (Indirect),,,WOW scary! RT @Zamba4: That's haunting!. Flooding already.RT @doublebeee: Wow. NYC today. #Sandy http://t.co/FicisQqk,WOW scary! RT @Zamba4: That's haunting!. Flooding already.RT @doublebeee: Wow. NYC today. #Sandy http://t.co/FicisQqk,Casualties and damage,A_MzTurree,,2
+227175166,False,finalized,4,11/23/2012 14:38,"
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Dark
+electricity damaged
+
+NYC in Dark",Informative (Indirect),,,Sandy Storms Across Pennsylvania Leaving Flooded NYC in Dark http://t.co/54sIVW57 via @Newsmax_Media,RT @Newsmax_Media: Sandy Storms Across Pennsylvania Leaving Flooded NYC in Dark http://t.co/54sIVW57 via @Newsmax_Media,Casualties and damage,aceichman,,2
+227175167,False,finalized,3,11/23/2012 3:16,"2
+2
+2",Both people and infrastructure,0.6365,"
+basement
+",Informative (Indirect),,,NYPD source confirms 2 more #sandy deaths in NYC: Man 55 in flooded downtown Manhattan basement & 14 yr old girl by Staten Island shore.,RT @Pervaizistan: NYPD source confirms 2 more #sandy deaths in NYC: Man 55 in flooded downtown Manhattan basement & 14 yr old girl by Staten Island shore.,Casualties and damage,aipsun,,2
+227175168,False,finalized,3,11/23/2012 13:59,"more than 100
+more than 100
+100",People: dead,1.0,"
+
+",Informative (Indirect),,,Superstorm SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s trail of destruction kills more than 100 http://t.co/KTKuDCeJ #alarabiya #Sandy #USA http://t.co/QAerfZyT,Superstorm SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s trail of destruction kills more than 100 http://t.co/KTKuDCeJ #alarabiya #Sandy #USA http://t.co/QAerfZyT,Casualties and damage,AlArabiya_Urdu,,2
+227175169,False,finalized,3,11/23/2012 14:03,"50
+50
+50",Both people and infrastructure,0.6818,"electricity damaged
+homes
+More than 8 million homes still without power across 17 states",Informative (Indirect),,,Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.,RT @9NEWS: Sandy kills 50 people nationwide 18 were New York City residents. More than 8 million homes still without power across 17 states.,Casualties and damage,Amelia__Earhart,,2
+227175170,False,finalized,3,11/23/2012 9:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"power
+power
+3/4 of a million in #NYC without power.",Informative (Indirect),,,Bloomberg: 3/4 of a million in #NYC without power. #Sandy,RT @NBCNewYork: Bloomberg: 3/4 of a million in #NYC without power. #Sandy,Casualties and damage,amommyinthecity,,2
+227175171,False,finalized,3,11/23/2012 13:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"subway tunnels
+subway tunnels
+subway tunnels",Informative (Indirect),,,MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens all 7 are flooded #nyc #Sandy #fb,RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens all 7 are flooded #nyc #Sandy #fb,Casualties and damage,andyjoriginal,,2
+227175172,False,finalized,4,11/23/2012 15:16,"
+
+
+",Not specified (maybe people or infrastructure),0.7257,"
+
+
+",Informative (Indirect),,,"Mayor Bloomberg calls it storm ""devastating"" and ""perhaps worst"" in NYC history. #Sandy","RT @MichaelHwrdSaul: Mayor Bloomberg calls it storm ""devastating"" and ""perhaps worst"" in NYC history. #Sandy",Casualties and damage,antimlopez,,2
+227175173,False,finalized,3,11/23/2012 14:03,"48
+48
+48",Both people and infrastructure,0.6818,"power
+
+",Informative (Indirect),,,Sandy kills 48 leaves over 8.2 million in the dark in US http://t.co/khMJkUJD,Sandy kills 48 leaves over 8.2 million in the dark in US http://t.co/khMJkUJD,Casualties and damage,AnyaObinna,,2
+227175174,False,finalized,3,11/23/2012 2:54,"168
+168
+",People: injured,0.6981,"
+
+",Informative (Indirect),,,ALERT: At least 168 people stranded in some 59 locations in Manhattan Staten Island Queens Brooklyn Coast Guard tells CNN. #sandy #nyc,RT @newsbreaker: ALERT: At least 168 people stranded in some 59 locations in Manhattan Staten Island Queens Brooklyn Coast Guard tells CNN. #sandy #nyc,Casualties and damage,bethmehring,,2
+227175175,False,finalized,3,11/23/2012 14:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"internet websites
+nternet websites
+internet websites",Informative (Indirect),,,Hurricane Sandy affecting internet websites http://t.co/afkiV7Hw #edpt20012,Hurricane Sandy affecting internet websites http://t.co/afkiV7Hw #edpt20012,Casualties and damage,Biner05,,2
+227175176,False,finalized,3,11/23/2012 14:25,"13
+At least 13
+13",Both people and infrastructure,0.6889,"power
+power
+",Informative (Indirect),,,At least 13 U.S. deaths are being blamed on #Sandy which has knocked out power to an estimated 5.2 million people. http://t.co/ppZ2PmEm,RT @abc7newsBayArea: At least 13 U.S. deaths are being blamed on #Sandy which has knocked out power to an estimated 5.2 million people. http://t.co/ppZ2PmEm,Casualties and damage,blin90,,2
+227175177,False,finalized,3,11/23/2012 14:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"transit system and power grid
+transit system and power grid
+getting our transit system and power grid up and running",Informative (Indirect),,,Mayor: Our two biggest challenges going forward will be getting our transit system and power grid up and running. #Sandy,RT @NYCMayorsOffice: Mayor: Our two biggest challenges going forward will be getting our transit system and power grid up and running. #Sandy,Casualties and damage,Bobby_Trendz,,2
+227175178,False,finalized,3,11/23/2012 14:28,"10
+10
+10",People: dead,1.0,"
+
+",Informative (Indirect),,,"Bloomberg ""our priority is protecting lives."" 10 dead in NYC from Sandy.","RT @xeni: Bloomberg ""our priority is protecting lives."" 10 dead in NYC from Sandy.",Casualties and damage,BoingBoing,,2
+227175179,False,finalized,3,11/23/2012 14:24,"133
+133
+133",People: dead,1.0,"
+
+",Informative (Indirect),,,Hurricane Sandy. 133 confirmed deaths. Do you still think its funny? Because it breaks my heart. http://t.co/GgjsP8Og,Hurricane Sandy. 133 confirmed deaths. Do you still think its funny? Because it breaks my heart. http://t.co/GgjsP8Og,Casualties and damage,calii_loveee,,2
+227175180,False,finalized,4,11/23/2012 15:16,"48 millions
+48
+48
+",Both people and infrastructure,0.482,"
+electricity damaged
+millions in the dark
+",Informative (Indirect),,,Sandy kills 48 millions in the dark http://t.co/I9GOSOXc via @sharethis,Sandy kills 48 millions in the dark http://t.co/I9GOSOXc via @sharethis,Casualties and damage,callface01,,2
+227175181,False,finalized,3,11/23/2012 14:24,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6462,"homeless
+home
+homeless",Informative (Indirect),,,On infrastructure aid & recovery in #Haiti where hundreds of thousands go homeless after natural disasters http://t.co/cPljLvEy #Sandy,RT @ponderbop: On infrastructure aid & recovery in #Haiti where hundreds of thousands go homeless after natural disasters http://t.co/cPljLvEy #Sandy,Casualties and damage,Catularity,,2
+227175182,False,finalized,3,11/23/2012 14:11,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,Chriseldalewis,,2
+227175183,False,finalized,3,11/23/2012 2:52,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"flooded
+DOT truck
+truck",Informative (Indirect),,,MT @NYGovCuomo: Entrance to Battery Park flooded NYC DOT truck seen submerged http://t.co/90TS0xac #Sandy,RT @twc_hurricane: MT @NYGovCuomo: Entrance to Battery Park flooded NYC DOT truck seen submerged http://t.co/90TS0xac #Sandy,Casualties and damage,ChrissyCake7,,2
+227175184,False,finalized,3,11/23/2012 9:44,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"power
+power
+300000 customers w/o power in 7 states",Informative (Indirect),,,SANDY: At least 300000 customers w/o power in 7 states; New Jersey most outages w/ over 91500 in the dark #CNN,SANDY: At least 300000 customers w/o power in 7 states; New Jersey most outages w/ over 91500 in the dark #CNN,Casualties and damage,CNNkimsegal,,2
+227175185,False,finalized,3,11/23/2012 14:24,"5
+five
+5",People: dead,1.0,"
+
+",Informative (Indirect),,,NYPD's public information office reports there have been five storm-related deaths in NYC. http://t.co/xzTcTLGl #Sandy,RT @nydailynews: NYPD's public information office reports there have been five storm-related deaths in NYC. http://t.co/xzTcTLGl #Sandy,Casualties and damage,colinjones,,2
+227175186,False,finalized,3,11/23/2012 14:21,"At least 39
+39
+39",People: dead,1.0,"
+
+",Informative (Indirect),,,Non-AmericansÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®54 in Haiti 11 in CubaÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®are people too. MT @nytimes: At least 39 people have died due to Hurricane Sandy. http://t.co/RF12OEvu,RT @tejucole: Non-AmericansÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®54 in Haiti 11 in CubaÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â®are people too. MT @nytimes: At least 39 people have died due to Hurricane Sandy. http://t.co/RF12OEvu,Casualties and damage,CompromisedNGOs,,2
+227175187,False,finalized,3,11/23/2012 9:13,"250000
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6434,"homeless
+home
+homeless",Informative (Indirect),,,Sandy left 250000 people homeless in Haiti. The country wasn't prepared and now it's decimated.,RT @sabzbrach: Sandy left 250000 people homeless in Haiti. The country wasn't prepared and now it's decimated.,Casualties and damage,ConorPDunne,,2
+227175188,False,finalized,3,11/23/2012 2:29,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"storm damage
+U.N. Security Council
+United Nations complex",Informative (Indirect),,,U.N. Security Council relocates due to storm damage: envoys http://t.co/RQTQPzYV,RT @Reuters: U.N. Security Council relocates due to storm damage: envoys http://t.co/RQTQPzYV,Casualties and damage,Crime_Tweeters,,2
+227175189,False,finalized,3,11/23/2012 14:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,ctbne,,2
+227175190,False,finalized,3,11/23/2012 2:56,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7128,"without power
+power
+power",Informative (Indirect),,,Oh great! ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NYTMetro: ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/bfRGmgiVÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,Oh great! ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NYTMetro: ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/bfRGmgiVÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,Casualties and damage,CWSSeignious,,2
+227175191,False,finalized,4,11/23/2012 9:35,"
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7568,"electricity damaged
+
+Outages
+Outages in #Queens have reached more than 19000",Informative (Indirect),,,#frankenstorm #nyc RT @queenscourier UPDATE: Outages in #Queens have reached more than 19000 #ConEd customers http://t.co/IA3Vhf3U #Sandy,RT @MJalonschi: #frankenstorm #nyc RT @queenscourier UPDATE: Outages in #Queens have reached more than 19000 #ConEd customers http://t.co/IA3Vhf3U #Sandy,Casualties and damage,CyMadD0x,,2
+227175192,False,finalized,3,11/23/2012 13:31,"8.1 million
+
+","Infrastructure (building, bridge, road, etc.) damage",0.3529,"
+power
+power",Informative (Indirect),,,#BreakingNews - 8.1 million now without power in 18 states from #Superstorm #Sandy,RT @ABC7Chicago: #BreakingNews - 8.1 million now without power in 18 states from #Superstorm #Sandy,Casualties and damage,cynthiajr00,,2
+227175193,False,finalized,3,11/23/2012 2:42,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane dangling from a building
+crane
+crane",Informative (Indirect),,,Hi guys! ::waves back:: RT @TIME NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/dcb9fvRf #Sandy,Hi guys! ::waves back:: RT @TIME NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/dcb9fvRf #Sandy,Casualties and damage,Dangling_Crane,,2
+227175194,False,finalized,3,11/23/2012 2:29,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded
+subway tunnels
+subway tunnels",Informative (Indirect),,,MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,Casualties and damage,deniseportesy,,2
+227175195,False,finalized,3,11/23/2012 15:16,"94
+94
+94",People: dead,1.0,"
+
+",Informative (Indirect),,,Total deaths due to superstorm Sandy now at 94 with 26 in the U.S. - details: http://t.co/Ddv2x5uM,RT @CNN: Total deaths due to superstorm Sandy now at 94 with 26 in the U.S. - details: http://t.co/Ddv2x5uM,Casualties and damage,DerrickJaxn,,2
+227175196,False,finalized,3,11/23/2012 13:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6885,"without power
+power
+power",Informative (Indirect),,,Between NYC/Westchester/Long Island and New Jersey there are 1.26 million customers without power. #Sandy,RT @SoozOnSports: Between NYC/Westchester/Long Island and New Jersey there are 1.26 million customers without power. #Sandy,Casualties and damage,Dgood73,,2
+227175197,False,finalized,3,11/23/2012 9:46,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+building
+crane collapse",Informative (Indirect),,,NYC building had numerous construction complaints before crane collapse | http://t.co/7EDmKOp3 (via @TIMENewsfeed) #Sandy,RT @TIME: NYC building had numerous construction complaints before crane collapse | http://t.co/7EDmKOp3 (via @TIMENewsfeed) #Sandy,Casualties and damage,elvislovers,,2
+227175198,False,finalized,3,11/23/2012 2:54,"30
+at least 30
+30",People: dead,1.0,"
+
+",Informative (Indirect),,,In the other #News; Sandy causes at least 30 U.S. deaths http://t.co/soxAGnfs #cnn,In the other #News; Sandy causes at least 30 U.S. deaths http://t.co/soxAGnfs #cnn,Casualties and damage,Emashoo,,2
+227175199,False,finalized,3,11/23/2012 14:25,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+crane",Informative (Indirect),,,Collapsed crane 57th St. NYC. #Sandy http://t.co/aacHxZYs,RT @JasonBiggs: Collapsed crane 57th St. NYC. #Sandy http://t.co/aacHxZYs,Casualties and damage,emmenberg,,2
+227175200,False,finalized,3,11/23/2012 9:15,"
+
+",Not specified (maybe people or infrastructure),0.6421,"
+
+",Informative (Indirect),,,#NYC Mayor @MikeBloomberg on #Sandy: May be the worst (storm) we have ever experienced. Watch live briefing on http://t.co/FOkSw980,RT @CNNLive: #NYC Mayor @MikeBloomberg on #Sandy: May be the worst (storm) we have ever experienced. Watch live briefing on http://t.co/FOkSw980,Casualties and damage,ESPN_JorgeRamos,,2
+227175201,False,finalized,3,11/23/2012 13:55,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+crane",Informative (Indirect),,,Tripping off that huge crane that NYPD says they may have to let fall on 57th and 7th Ave.. No way they can secure it from #sandy,RT @mrdaveyd: Tripping off that huge crane that NYPD says they may have to let fall on 57th and 7th Ave.. No way they can secure it from #sandy,Casualties and damage,exileinflyville,,2
+227175202,False,finalized,3,11/23/2012 13:55,"
+
+",Not damage-related,0.6421,"Apple Store
+
+",Informative (Indirect),,,Apple Store gets sand bagged in the Meatpacking Dristict. #hurricane #sandy #nyc http://t.co/mfbG5fzz,RT @NewYorkPost: Apple Store gets sand bagged in the Meatpacking Dristict. #hurricane #sandy #nyc http://t.co/mfbG5fzz,Casualties and damage,faezaauzar,,2
+227175203,False,finalized,3,11/23/2012 14:38,"30, 25
+55
+30,25",People: injured and dead,0.6806,"
+
+",Informative (Indirect),,,On GEO after 25 mins reporting on 30 causalities in USA by Sandy there was 2 mins report for 25 deaths in Pakistan as well. @Shahidmasooddr,RT @Sohaib_Nehal: On GEO after 25 mins reporting on 30 causalities in USA by Sandy there was 2 mins report for 25 deaths in Pakistan as well. @Shahidmasooddr,Casualties and damage,FahidJaved,,2
+227175204,False,finalized,3,11/23/2012 14:11,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"firefighters look up at a collapsed crane dangling from a building
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,fbarbie6,,2
+227175205,False,finalized,4,11/23/2012 9:13,"6200
+
+
+","Infrastructure (building, bridge, road, etc.) damage",0.7488,"
+power
+without power
+customers without power",Informative (Indirect),,,RT @mpoppel: BREAKING -- About 6200 customers without power in NJ due to #Sandy; up from 2100: http://t.co/96ZIR3o5,RT @AircrewBuzz: RT @mpoppel: BREAKING -- About 6200 customers without power in NJ due to #Sandy; up from 2100: http://t.co/96ZIR3o5,Casualties and damage,FLYCardiff,,2
+227175206,False,finalized,3,11/23/2012 9:17,"Two
+Two
+2",People: dead,1.0,"
+
+",Informative (Indirect),,,Two Children Killed By Fallen Tree During Hurricane Sandy ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® So Sad http://t.co/7VSqFj7o,Two Children Killed By Fallen Tree During Hurricane Sandy ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â® So Sad http://t.co/7VSqFj7o,Casualties and damage,FolowMeNGetLost,,2
+227175207,False,finalized,3,11/23/2012 2:52,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,gildapramoss,,2
+227175208,False,finalized,3,11/23/2012 9:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"boardwalk
+boardwalk
+#Sandy destroyed several blocks of Atlantic City's world-famous boardwalk",Informative (Indirect),,,RT @AP: AP Video: In New Jersey #Sandy destroyed several blocks of Atlantic City's world-famous boardwalk: http://t.co/TErK4JVK -RAS,RT @AP: AP Video: In New Jersey #Sandy destroyed several blocks of Atlantic City's world-famous boardwalk: http://t.co/TErK4JVK -RAS,Casualties and damage,glorious_glo,,2
+227175209,False,finalized,3,11/23/2012 13:38,"48
+48
+48",People: dead,1.0,"
+
+",Informative (Indirect),,,48 people confirmed dead so far from Hurricane Sandy hope no more die,48 people confirmed dead so far from Hurricane Sandy hope no more die,Casualties and damage,harveyfancyabum,,2
+227175210,False,finalized,4,11/23/2012 9:15,"
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane
+crane
+collapsed crane
+collapsed crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,ibejedi,,2
+227175211,False,finalized,3,11/23/2012 9:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"47000 customers have lost power in NYC
+power
+lost power",Informative (Indirect),,,.@MikeBloomberg: 47000 customers have lost power in NYC mainly in Queens and Staten Island. #Sandy,RT @BAHjournalist: .@MikeBloomberg: 47000 customers have lost power in NYC mainly in Queens and Staten Island. #Sandy,Casualties and damage,Its_Remy_Ma,,2
+227175212,False,finalized,3,11/22/2012 18:03,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"subway & mass transit
+damages to subway & mass transit
+subway & mass transit",Informative (Indirect),,,NYC mayor press conference now: damages to subway & mass transit likely worst in history of system. Yet NYC depends on mass transit. #Sandy,NYC mayor press conference now: damages to subway & mass transit likely worst in history of system. Yet NYC depends on mass transit. #Sandy,Casualties and damage,JanetPhD,,2
+227175213,False,finalized,3,11/23/2012 13:31,"
+
+",Not damage-related,0.6471,"
+NYU cancer research
+",Informative (Indirect),,,"NYU cancer research lost in #Sandy flood ""will likely set back scientists' work by years."" http://t.co/8ksFdp8v","RT @Salon: NYU cancer research lost in #Sandy flood ""will likely set back scientists' work by years."" http://t.co/8ksFdp8v",Casualties and damage,Jenntrix,,2
+227175214,False,finalized,3,11/23/2012 13:55,"
+
+",Not damage-related,0.6471,"
+electricity damaged
+",Informative (Indirect),,,#Blackouts affect 500K as #Hurricane #Sandy #Reach in 1hr the #EastCoast | http://t.co/d2DxFlY0| #Virginia #Main #Storm #NYC #NY #NJ #Boston,#Blackouts affect 500K as #Hurricane #Sandy #Reach in 1hr the #EastCoast | http://t.co/d2DxFlY0| #Virginia #Main #Storm #NYC #NY #NJ #Boston,Casualties and damage,Join____Us,,2
+227175215,False,finalized,3,11/23/2012 9:17,"
+
+",Not damage-related,0.6761,"
+
+locations in every Billy Joel and Bruce Springsteen song are flooded",Informative (Indirect),,,Listened to New York radio this morning. Apparently the locations in every Billy Joel and Bruce Springsteen song are flooded. #Sandy,RT @TheFakeNed: Listened to New York radio this morning. Apparently the locations in every Billy Joel and Bruce Springsteen song are flooded. #Sandy,Casualties and damage,jonesbrian,,2
+227175216,False,finalized,3,11/23/2012 9:44,"
+
+",Not damage-related,0.6729,"
+
+power",Informative (Indirect),,,This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH,RT @JustinKing224: This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/ScVhG8qH,Casualties and damage,jwaite89,,2
+227175217,False,finalized,3,11/23/2012 13:47,"118
+118
+118",People: dead,1.0,"
+
+",Informative (Indirect),,,At least 50 U.S. deaths now linked to #Sandy -- among a total of 118 worldwide. http://t.co/W3BSwLBL,RT @cnnbrk: At least 50 U.S. deaths now linked to #Sandy -- among a total of 118 worldwide. http://t.co/W3BSwLBL,Casualties and damage,jws6220,,2
+227175218,False,finalized,3,11/23/2012 13:47,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Trampoline
+electrical cables
+Trampoline",Informative (Indirect),,,No jumping today kids! -&gt; Trampoline hanging on electrical cables (Milford Connecticut) #Sandy http://t.co/9WDbJ0dT,RT @AnonymousPress: No jumping today kids! -&gt; Trampoline hanging on electrical cables (Milford Connecticut) #Sandy http://t.co/9WDbJ0dT,Casualties and damage,KalyndaHaaf,,2
+227175219,False,finalized,3,11/23/2012 14:21,"54 confirmed deaths, 20 injured and 20 missing
+54
+94",People: injured and dead,0.6844,"
+
+",Informative (Indirect),,,#Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters,RT @pahowho: #Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters,Casualties and damage,katellington,,2
+227175220,False,finalized,3,11/23/2012 9:46,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"boat
+boat
+tracks at NY's Metro-North's Ossining Station",Informative (Indirect),,,A boat rests on the tracks at NY's Metro-North's Ossining Station on the Hudson Line (Photo via MTA) #Sandy http://t.co/XYY7ySwC,RT @CBSThisMorning: A boat rests on the tracks at NY's Metro-North's Ossining Station on the Hudson Line (Photo via MTA) #Sandy http://t.co/XYY7ySwC,Casualties and damage,kathrynlopez,,2
+227175221,False,finalized,3,11/23/2012 13:31,"More than/or 54, More than 80.000
+More than/or 54 people died.More than 80.000 people died. (Burma)
+More than/or 54 people died. (USA) More than 80.000 people died. (Burma)",People: dead,1.0,"
+
+",Informative (Indirect),,,Sandy: More than/or 54 people died. (USA). International crisis. Nargis: More than 80.000 people died. (Burma). No one cares.,Sandy: More than/or 54 people died. (USA). International crisis. Nargis: More than 80.000 people died. (Burma). No one cares.,Casualties and damage,KimIversenFY,,2
+227175222,False,finalized,3,11/23/2012 9:49,"
+
+",Not damage-related,0.6761,"
+
+Times Square in #NYC has been abandoned",Informative (Indirect),,,Times Square in #NYC has been abandoned because of hurricane #Sandy. The lights are still shining though. http://t.co/t88apVoO,RT @barrabest: Times Square in #NYC has been abandoned because of hurricane #Sandy. The lights are still shining though. http://t.co/t88apVoO,Casualties and damage,Kirkster555,,2
+227175223,False,finalized,3,11/23/2012 14:25,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+Construction crane",Informative (Indirect),,,UPDATE: Construction crane collapses in midtown Manhattan as #HurricaneSandy roars into NYC http://t.co/VR4ul19o #Sandy,RT @nydailynews: UPDATE: Construction crane collapses in midtown Manhattan as #HurricaneSandy roars into NYC http://t.co/VR4ul19o #Sandy,Casualties and damage,KONAhaze,,2
+227175224,False,finalized,3,11/22/2012 18:23,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Kitchen
+entire front of this building fell off!
+building",Informative (Indirect),,,Still unbelievable RT @RyanNewYork: Wow from Hell's Kitchen - the entire front of this building fell off! http://t.co/1lUZ5lAj #nyc #sandy,Still unbelievable RT @RyanNewYork: Wow from Hell's Kitchen - the entire front of this building fell off! http://t.co/1lUZ5lAj #nyc #sandy,Casualties and damage,LadyBlueICU,,2
+227175225,False,finalized,3,11/23/2012 2:56,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6415,"
+crane
+crane",Informative (Indirect),,,NYC news anchors and producers watching crane and whispering ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬fall fall!ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #Sandy,NYC news anchors and producers watching crane and whispering ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬fall fall!ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #Sandy,Casualties and damage,Larchmontbroker,,2
+227175226,False,finalized,3,11/23/2012 3:14,"1
+1
+",People: dead,1.0,"
+
+",Informative (Indirect),,,HMS Bounty Crew Member confirmed dead. Body Recovered by US Coast Guard. #sandy http://t.co/ajrF6sC6,HMS Bounty Crew Member confirmed dead. Body Recovered by US Coast Guard. #sandy http://t.co/ajrF6sC6,Casualties and damage,LibertyBelleJ,,2
+227175227,False,finalized,3,11/23/2012 14:22,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,lillo_c,,2
+227175228,False,finalized,3,11/23/2012 14:28,"At least 33
+33 people dead and more than 7...
+73",People: dead,0.6724,"power
+
+",Informative (Indirect),,,UPDATE: At least 33 deaths blamed on Sandy: Superstorm Sandy winds down leaving 33 people dead and more than 7... http://t.co/8XXEKkNT,UPDATE: At least 33 deaths blamed on Sandy: Superstorm Sandy winds down leaving 33 people dead and more than 7... http://t.co/8XXEKkNT,Casualties and damage,lincolnnedaily,,2
+227175229,False,finalized,3,11/23/2012 13:47,"@ least 39 people
+39
+39",People: dead,1.0,"
+
+",Informative (Indirect),,,Absolutely heartbreaking MT@nytimes: @ least 39 people have died due 2 Hurricane Sandy. Here are a few of their stories.http://t.co/jN7NJhbk,Absolutely heartbreaking MT@nytimes: @ least 39 people have died due 2 Hurricane Sandy. Here are a few of their stories.http://t.co/jN7NJhbk,Casualties and damage,lishaarino,,2
+227175230,False,finalized,3,11/23/2012 14:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"18000 Families Homeless In Haiti
+Home
+18000 Families Homeless In Haiti",Informative (Indirect),,,18000 Families Homeless In Haiti After Hurricane Sandy http://t.co/qxkU8tdH,18000 Families Homeless In Haiti After Hurricane Sandy http://t.co/qxkU8tdH,Casualties and damage,mantsekev,,2
+227175231,False,finalized,3,11/23/2012 3:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"More than 765000 power outages
+power
+power outages",Informative (Indirect),,,RT @cnn: More than 765000 power outages so far due to Hurricane Sandy. Latest info on @CNN TV and our live blog: http://t.co/OkHC8ssW,RT @jvelezmitchell: RT @cnn: More than 765000 power outages so far due to Hurricane Sandy. Latest info on @CNN TV and our live blog: http://t.co/OkHC8ssW,Casualties and damage,mariamccloud,,2
+227175232,False,finalized,3,11/23/2012 9:40,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"subway tunnels
+subway tunnels
+7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded",Informative (Indirect),,,MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,Casualties and damage,MauriceMichael,,2
+227175233,False,finalized,3,11/23/2012 3:17,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6867,"Subway Station
+Subway Station
+",Informative (Indirect),,,Couple of NYC photos from Reddit showing the effects of Sandy so far - http://t.co/kLeV3Zod NYC Subway Station,Couple of NYC photos from Reddit showing the effects of Sandy so far - http://t.co/kLeV3Zod NYC Subway Station,Casualties and damage,maxwood,,2
+227175234,False,finalized,3,11/23/2012 9:49,"
+
+Sandy's aftermath",Not specified (maybe people or infrastructure),0.6761,"
+
+Sandy's aftermath",Informative (Indirect),,,Wow. Stay safe east coasters RT ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NZStuff: Millions wake to destruction in Sandy's aftermath http://t.co/TzzmMiArÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,Wow. Stay safe east coasters RT ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@NZStuff: Millions wake to destruction in Sandy's aftermath http://t.co/TzzmMiArÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,Casualties and damage,mermaidmoll,,2
+227175235,False,finalized,3,11/23/2012 14:11,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"home
+roof
+Door to our roof was ripped off its hinges",Informative (Indirect),,,Door to our roof was ripped off its hinges. Super is already fixing it! #nyc #Sandy http://t.co/nIfEPDip,Door to our roof was ripped off its hinges. Super is already fixing it! #nyc #Sandy http://t.co/nIfEPDip,Casualties and damage,mirseum,,2
+227175236,False,finalized,4,11/23/2012 9:13,"29
+29
+at least 29
+29",People: dead,1.0,"
+
+
+",Informative (Indirect),,,#Prayers 'Unthinkable devastation' Sandy causes at least 29 U.S. deaths http://t.co/9p4biw5V,RT @hollyrpeete: #Prayers 'Unthinkable devastation' Sandy causes at least 29 U.S. deaths http://t.co/9p4biw5V,Casualties and damage,missclass,,2
+227175237,False,finalized,3,11/23/2012 9:40,"50
+50
+50",Both people and infrastructure,1.0,"$20billion worth of damage
+
+$20billion worth of damage",Informative (Indirect),,,Barack Obama to visit New Jersey after Superstorm Sandy kills 50 people and causes $20billion worth of damage http://t.co/6jnSsJFs,RT @MetroUK: Barack Obama to visit New Jersey after Superstorm Sandy kills 50 people and causes $20billion worth of damage http://t.co/6jnSsJFs,Casualties and damage,mnjoben,,2
+227175238,False,finalized,3,11/23/2012 13:59,"
+
+",Not specified (maybe people or infrastructure),1.0,"
+
+",Informative (Indirect),,,TotallyCoolPix: The Hurricane Sandy Aftermath: She came she saw she destroyed. Hurricane Sandy came ashore las... http://t.co/Rl978fwW,RT @totallycoolpix: TotallyCoolPix: The Hurricane Sandy Aftermath: She came she saw she destroyed. Hurricane Sandy came ashore las... http://t.co/Rl978fwW,Casualties and damage,MoeiiMaker,,2
+227175239,False,finalized,3,11/22/2012 17:47,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6513,"Over 1000 reports of downed trees and other problems with debris
+downed trees
+",Informative (Indirect),,,Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy,RT @twc_hurricane: Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy,Casualties and damage,momof3mary,,2
+227175240,False,finalized,3,11/23/2012 9:49,"
+
+Storm was most destructive in 108-year history","Infrastructure (building, bridge, road, etc.) damage",0.3614,"
+subway system
+Storm was most destructive in 108-year history",Informative (Indirect),,,Storm was most destructive in 108-year history of NYC subway system says MTA chief Lhota. http://t.co/XbvLF31t,RT @nytjim: Storm was most destructive in 108-year history of NYC subway system says MTA chief Lhota. http://t.co/XbvLF31t,Casualties and damage,NataschaDea,,2
+227175241,False,finalized,3,11/23/2012 14:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6818,"power
+
+NYC-area customers without power is about 68700",Informative (Indirect),,,ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/MXylkmqu,RT @NYTMetro: ConEd: Number of NYC-area customers without power is about 68700 and is sure to keep rising http://t.co/MXylkmqu,Casualties and damage,NewsalertsVNS,,2
+227175242,False,finalized,3,11/23/2012 9:40,"
+
+devastation deaths",Not specified (maybe people or infrastructure),0.6761,"
+
+devastation deaths",Informative (Indirect),,,Sandy moves west leaving devastation deaths in its wake: The Atlantic superstorm Sandy churned across Pennsy... http://t.co/jB6x2Zxa,Sandy moves west leaving devastation deaths in its wake: The Atlantic superstorm Sandy churned across Pennsy... http://t.co/jB6x2Zxa,Casualties and damage,newsandtribune,,2
+227175243,False,finalized,3,11/23/2012 14:03,"
+
+",Not specified (maybe people or infrastructure),1.0,"
+
+",Informative (Indirect),,,NYC Mayor Bloomberg - More than 20 fires spawned by storm #Sandy,NYC Mayor Bloomberg - More than 20 fires spawned by storm #Sandy,Casualties and damage,NewsRadio930,,2
+227175244,False,finalized,3,11/23/2012 13:43,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"debris
+tree
+trees",Informative (Indirect),,,Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy,RT @twc_hurricane: Mayor Bloomberg: Over 1000 reports of downed trees and other problems with debris in #NYC. #Sandy,Casualties and damage,nicecap,,2
+227175245,False,finalized,4,11/23/2012 9:42,"
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"47000 customers without power in new york city
+power
+without power
+47000 customers without power",Informative (Indirect),,,#Sandy hitting NYC: 47000 customers without power in new york city.,#Sandy hitting NYC: 47000 customers without power in new york city.,Casualties and damage,nyckennedy,,2
+227175246,False,finalized,3,11/23/2012 9:35,"500
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6724,"hospital
+power
+hospital loses power now evacuating 500 patients",Informative (Indirect),,,More #Sandy impact: Bellevue NYC's flagship public hospital loses power now evacuating 500 patients hospital says.,RT @cliffordlevy: More #Sandy impact: Bellevue NYC's flagship public hospital loses power now evacuating 500 patients hospital says.,Casualties and damage,NYTMetro,,2
+227175247,False,finalized,3,11/23/2012 9:49,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane
+Crane
+Crane Collapse..",Informative (Indirect),,,Update: Crane Collapse... developing... #hurricance #nyc #sandy http://t.co/0jvimS1s,RT @NewYorkPost: Update: Crane Collapse... developing... #hurricance #nyc #sandy http://t.co/0jvimS1s,Casualties and damage,o0REL,,2
+227175248,False,finalized,3,11/23/2012 14:22,"
+16
+",People: dead,1.0,"
+
+",Informative (Indirect),,,This says a lot. Hurricane Sandy's death toll as viewed by the BBC: http://t.co/UPPLzNNY (via @jackseale),RT @medialens: This says a lot. Hurricane Sandy's death toll as viewed by the BBC: http://t.co/UPPLzNNY (via @jackseale),Casualties and damage,owensm1th,,2
+227175249,False,finalized,3,11/23/2012 9:17,"66
+66
+66",People: dead,1.0,"
+
+",Informative (Indirect),,,#US #media When you reports deaths from #Sandy also note the 66 confirmed in the Caribbean phase of the storm.,#US #media When you reports deaths from #Sandy also note the 66 confirmed in the Caribbean phase of the storm.,Casualties and damage,pattigibbons,,2
+227175250,False,finalized,5,11/23/2012 9:42,"
+
+
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed crane dangling from a building
+crane
+crane
+collapsed crane
+collapsed crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,PieBongio,,2
+227175251,False,finalized,3,11/22/2012 18:23,"39
+39
+39",People: dead,1.0,"
+
+",Informative (Indirect),,,"Checking out """"US under """"attack"""" :Sandy kills 39 as National Guard mobilized as"""" on 9jabook: http://t.co/JILvYJHQ","Checking out ""US under ""attack"" :Sandy kills 39 as National Guard mobilized as"" on 9jabook: http://t.co/JILvYJHQ",Casualties and damage,pimpmy9jabook,,2
+227175252,False,finalized,3,11/23/2012 14:21,"39
+39
+39",Both people and infrastructure,1.0,"power Shutsdown 11m homes
+power
+11m homes",Informative (Indirect),,,"US under """"attack"""" :Sandy kills 39 as National Guard mobilized as power Shutsdown 11m homes in North East America http://t.co/JILvYJHQ","US under ""attack"" :Sandy kills 39 as National Guard mobilized as power Shutsdown 11m homes in North East America http://t.co/JILvYJHQ",Casualties and damage,pimpmy9jabook,,2
+227175253,False,finalized,3,11/23/2012 9:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+collapsed crane dangling from a building",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,PlayTaxiMedia,,2
+227175254,False,finalized,3,11/22/2012 18:16,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"building
+NYC firefighters look up at a collapsed crane dangling from a building
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,PoetryNEarth,,2
+227175255,False,finalized,3,11/23/2012 14:27,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"NYC firefighters look up at a collapsed crane dangling from a building
+crane
+crane",Informative (Indirect),,,NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/8abQk4SC #Sandy,Casualties and damage,Pucemargine,,2
+227175256,False,finalized,3,11/23/2012 9:17,"94
+54, 20, 20 missing
+54",People: injured and dead,0.6806,"
+
+",Informative (Indirect),,,#Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters,RT @pahowho: #Sandy In #Haiti 54 confirmed deaths were reported 20 injured and 20 missing http://t.co/Kbe1Jp7o cc: @pahodisasters,Casualties and damage,RealityRadioTT,,2
+227175257,False,finalized,3,11/23/2012 14:07,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"power
+power
+most without power in Queens and Staten Island",Informative (Indirect),,,ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@naugusta: NYC Mayor Bloomberg says most without power in Queens and Staten Island. #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #statenisland #nyc #sandyabc7,ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@naugusta: NYC Mayor Bloomberg says most without power in Queens and Staten Island. #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #statenisland #nyc #sandyabc7,Casualties and damage,Richie_Brienza,,2
+227175258,False,finalized,3,11/23/2012 14:15,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane
+Crane
+Crane",Informative (Indirect),,,Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/KVoA7ywr via @WSJ,RT @newyorkhabitat: Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/KVoA7ywr via @WSJ,Casualties and damage,RobertaKLEEDAP,,2
+227175259,False,finalized,3,11/23/2012 14:28,"At least 50
+50
+50",Both people and infrastructure,1.0,"Power
+Power out to hundreds of thousands
+Schools",Informative (Indirect),,,At least 50 people died in the US during Hurricane Sandy. Power out to hundreds of thousands. Schools still closed.,At least 50 people died in the US during Hurricane Sandy. Power out to hundreds of thousands. Schools still closed.,Casualties and damage,ROCK977,,2
+227175260,False,finalized,3,11/23/2012 13:47,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6818,"Nuke Plants
+
+Nuke Plants",Informative (Indirect),,,Problems at Five Nuke Plants http://t.co/DtceY4pS,Problems at Five Nuke Plants http://t.co/DtceY4pS,Casualties and damage,safetyskeptic,,2
+227175261,False,finalized,3,11/23/2012 2:56,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane
+Crane
+Crane",Informative (Indirect),,,Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/QWTQ4FtZ via @WSJ,RT @NewYorkHabitat: Stay safe! #NYC RT @WSJNY Crane crumples above One57 ManhattanÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s glitziest condo. #Sandy http://t.co/QWTQ4FtZ via @WSJ,Casualties and damage,samwittty13,,2
+227175262,False,finalized,3,11/23/2012 14:19,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6818,"power
+
+swamps Lower Manhattan with massive surge",Informative (Indirect),,,nydailynews: Sandy swamps Lower Manhattan with massive surge http://t.co/1L2mcYYu #nyc,RT @FeedNYC: nydailynews: Sandy swamps Lower Manhattan with massive surge http://t.co/1L2mcYYu #nyc,Casualties and damage,SanDiegoNYorker,,2
+227175263,False,finalized,3,11/23/2012 9:42,"33
+At least 33
+33",People: dead,1.0,"
+
+",Informative (Indirect),,,At least 33 people in eight states were confirmed dead from Sandy including 16 people in New York City: http://t.co/1U1mjErO via @WSJ,RT @WSJNY: At least 33 people in eight states were confirmed dead from Sandy including 16 people in New York City: http://t.co/1U1mjErO via @WSJ,Casualties and damage,Shamo5hNJ,,2
+227175264,False,finalized,3,11/23/2012 14:21,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"power
+power
+without power",Informative (Indirect),,,70000 still without power in Ontario after #Sandy . Most to be reconnected within 24 hours: Ont. energy minister,RT @CBCAlerts: 70000 still without power in Ontario after #Sandy . Most to be reconnected within 24 hours: Ont. energy minister,Casualties and damage,SheilaColesCBC,,2
+227175265,False,finalized,3,11/22/2012 18:23,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"7
+subway tunnels
+subway tunnels",Informative (Indirect),,,MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,RT @kerstinshamberg: MTA chairman: There are 7 subway tunnels that connect Manhattan to Brooklyn & Queens those 7 are flooded #nyc #Sandy,Casualties and damage,Shy_Stranger,,2
+227175266,False,finalized,3,11/23/2012 3:19,"at least 21
+21
+10",People: dead,1.0,"
+
+",Informative (Indirect),,,ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@cnnbrk: Bloomberg; Storm killed 10 in NYC. CNN U.S. toll from #Sandy at least 21. http://t.co/5i8o9c1iÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #eyeSJU #sandy,RT @demixo13: ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬@cnnbrk: Bloomberg; Storm killed 10 in NYC. CNN U.S. toll from #Sandy at least 21. http://t.co/5i8o9c1iÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â #eyeSJU #sandy,Casualties and damage,sjuhawknews,,2
+227175267,False,finalized,3,11/23/2012 13:43,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"beachfront home
+home
+home",Informative (Indirect),,,Storm-battered US sifts through SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s wreckage: Peter Andrews removes belongings from his fatherÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s beachfront home destroyed in th...,Storm-battered US sifts through SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s wreckage: Peter Andrews removes belongings from his fatherÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â»s beachfront home destroyed in th...,Casualties and damage,sohaibkhan,,2
+227175268,False,finalized,3,11/23/2012 9:44,"
+
+sandy #aftermath",Not damage-related,0.3455,"
+Astoria
+sandy #aftermath",Informative (Indirect),,,Photo: #Astoria seems more or less unscathed #Ditmars #nyc #sandy #aftermath http://t.co/WnQQvpYK,Photo: #Astoria seems more or less unscathed #Ditmars #nyc #sandy #aftermath http://t.co/WnQQvpYK,Casualties and damage,spitzmud,,2
+227175269,False,finalized,3,11/23/2012 9:38,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane dangles from NYC high-rise as Hurricane Sandy bears down
+Crane
+Crane dangles from NYC high-rise",Informative (Indirect),,,SMH . RT @CBSNews: Crane dangles from NYC high-rise as Hurricane Sandy bears down on city http://t.co/3UbIIicH,SMH . RT @CBSNews: Crane dangles from NYC high-rise as Hurricane Sandy bears down on city http://t.co/3UbIIicH,Casualties and damage,StaceDiva,,2
+227175270,False,finalized,3,11/23/2012 14:11,"52
+52
+52",Both people and infrastructure,1.0,"200000 homeless
+
+200000 homeless in Haiti",Informative (Indirect),,,#sandy 200000 homeless in Haiti and 52 dead http://t.co/wMrBLWLT - But Mail reports no cellphone coverage in New York http://t.co/hJzbcNWr,RT @paullewismoney: #sandy 200000 homeless in Haiti and 52 dead http://t.co/wMrBLWLT - But Mail reports no cellphone coverage in New York http://t.co/hJzbcNWr,Casualties and damage,StevieOddsocks,,2
+227175271,False,finalized,3,11/23/2012 14:27,"
+69
+69",People: dead,0.6724,"
+
+",Informative (Indirect),,,Sandy Toll Hits 69 in Carribean http://t.co/MlFfKOWr @democracynow,Sandy Toll Hits 69 in Carribean http://t.co/MlFfKOWr @democracynow,Casualties and damage,Stwallace23,,2
+227175272,False,finalized,3,11/23/2012 9:46,"
+
+","Infrastructure (building, bridge, road, etc.) damage",0.6421,"
+
+$10 billion in insured losses",Informative (Indirect),,,Hurricane Sandy is expected to cause up to $10 billion in insured losses. Details: http://t.co/DdBTMYtb,Hurricane Sandy is expected to cause up to $10 billion in insured losses. Details: http://t.co/DdBTMYtb,Casualties and damage,TarekHabal,,2
+227175273,False,finalized,3,11/23/2012 2:58,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crops
+subway,crops
+crops",Informative (Indirect),,,Yes but my subway is delayed 4 days. RT @olavkjorven: #Sandy destroyed 70 per cent of the crops in southern #Haiti http://t.co/hk1bG7FC,RT @cblatts: Yes but my subway is delayed 4 days. RT @olavkjorven: #Sandy destroyed 70 per cent of the crops in southern #Haiti http://t.co/hk1bG7FC,Casualties and damage,theolugirl,,2
+227175274,False,finalized,3,11/23/2012 14:27,"50
+FIFTY
+FIFTY DEAD",People: dead,1.0,"
+
+",Informative (Indirect),,,FIFTY DEAD...and it's NOT over: Obama's grim warning as he prepares to visit scenes of hurricane 'major disaster' - http://t.co/zrqpgERI,FIFTY DEAD...and it's NOT over: Obama's grim warning as he prepares to visit scenes of hurricane 'major disaster' - http://t.co/zrqpgERI,Casualties and damage,therealnickmack,,2
+227175275,False,finalized,3,11/23/2012 14:28,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+collapsed crane",Informative (Indirect),,,ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/xyMHrTYh #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,ÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³ÃƒÆ’Ã‚Â¬RT @TIME: NYC firefighters look up at a collapsed crane dangling from a building | http://t.co/xyMHrTYh #SandyÃƒÆ’Ã‚Â¤ÃƒÆ’Ã‚Â³Ãƒâ€šÃ‚Â,Casualties and damage,theresamax,,2
+227175276,False,finalized,3,11/23/2012 14:22,"87
+69, 15, 3
+69 People In The Caribbean 15 People In NY & 3 People In NJ .",People: dead,1.0,"
+
+",Informative (Indirect),,,Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect .,RT @CallMe_Chelley: Sandy Killed 69 People In The Caribbean  15 People In NY  & 3 People In NJ . : ( RT To Show Respect .,Casualties and damage,TjM0Xx232,,2
+227175277,False,finalized,3,11/22/2012 18:18,"
+
+",Not specified (maybe people or infrastructure),0.3538,"
+
+New York eastern",Informative (Indirect),,,Monster storm Sandy leaves New York eastern U.S. crippled http://t.co/ZnpXnDAc,Monster storm Sandy leaves New York eastern U.S. crippled http://t.co/ZnpXnDAc,Casualties and damage,Ubutu44,,2
+227175278,False,finalized,4,11/23/2012 9:42,"Two
+Two
+Two
+2",People: dead,0.7642,"
+
+
+",Informative (Indirect),,,Two people found dead in Brooklyn Tuesday morning crushed by giant trees: http://t.co/mpw3UxvJ #Sandy,RT @nydailynews: Two people found dead in Brooklyn Tuesday morning crushed by giant trees: http://t.co/mpw3UxvJ #Sandy,Casualties and damage,ULickISquiiirt,,2
+227175279,False,finalized,3,11/23/2012 14:28,"
+
+",Not damage-related,0.6724,"
+
+hospital",Informative (Indirect),,,RT @danengber: Thousands of lab mice drowned at NYU hospital years of research lost. http://t.co/vacIpzQc,RT @Slate: RT @danengber: Thousands of lab mice drowned at NYU hospital years of research lost. http://t.co/vacIpzQc,Casualties and damage,VandelaySalesUS,,2
+227175280,False,finalized,3,11/23/2012 14:28,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"crane
+crane
+cranes",Informative (Indirect),,,Mayor stated that all cranes had been secured but a crane dangles from NYC high-rise as #Sandy bears down on NYC. Yikes http://t.co/8BFwgo4q,Mayor stated that all cranes had been secured but a crane dangles from NYC high-rise as #Sandy bears down on NYC. Yikes http://t.co/8BFwgo4q,Casualties and damage,VirtualAshok,,2
+227175281,False,finalized,3,11/23/2012 14:07,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"collapsed boardwalk
+boardwalk
+boardwalk",Informative (Indirect),,,Via BBC's @helenamerriman in #NewJersey: Crowd gathered at collapsed boardwalk in #AtlanticCity all look up as AF1 flew overhead #sandy,RT @BBCNewsUS: Via BBC's @helenamerriman in #NewJersey: Crowd gathered at collapsed boardwalk in #AtlanticCity all look up as AF1 flew overhead #sandy,Casualties and damage,WJA99,,2
+227175282,False,finalized,4,11/23/2012 2:56,"
+
+
+",Not damage-related,0.4956,"
+
+electricity damaged
+",Informative (Indirect),,,NY had one of the highest surge values on the east coast becuase of shallow part of continental shelf: Mike Tidwell on @democracynow #Sandy,NY had one of the highest surge values on the east coast becuase of shallow part of continental shelf: Mike Tidwell on @democracynow #Sandy,Casualties and damage,wmnfnews,,2
+227175283,False,finalized,3,11/23/2012 2:54,"
+
+",Not damage-related,0.6365,"
+
+",Informative (Indirect),,,"Burich Hashem! RT @WSJweather: No fatalities in #Sandy so far in NYC.""""","Burich Hashem! RT @WSJweather: No fatalities in #Sandy so far in NYC.""",Casualties and damage,YoelyNews,,2
+227175284,False,finalized,3,11/23/2012 14:28,"
+
+","Infrastructure (building, bridge, road, etc.) damage",1.0,"Crane
+Crane
+Crane",Informative (Indirect),,,Crane collapses near Carnegie Hall. Photo h/t @daveevansabc7 #SandyABC7 #Sandy http://t.co/WPnpMoxh,RT @DianeSawyer: Crane collapses near Carnegie Hall. Photo h/t @daveevansabc7 #SandyABC7 #Sandy http://t.co/WPnpMoxh,Casualties and damage,ZachSoltero,,2
