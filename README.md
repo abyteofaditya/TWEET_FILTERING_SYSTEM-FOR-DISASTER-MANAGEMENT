@@ -73,7 +73,7 @@ Feel free to fork this repo, suggest improvements, or report issues!
 🔗 linkedin.com/in/aditya-sarohaa-345336323  
 
 
-##📜 License & Usage
+**##**📜 License & Usage
 
 📜 Copyright © 2024 Aditya Sarohaa
 
