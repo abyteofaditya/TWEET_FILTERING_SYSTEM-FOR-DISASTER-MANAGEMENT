@@ -1,3 +1,6 @@
+# Copyright © 2024 Aditya Sarohaa
+# Licensed under CC BY-NC-ND 4.0 (No modifications or commercial use allowed)
+
 #Import all the libraries
 import pandas as pd #for data handling
 import numpy as np
