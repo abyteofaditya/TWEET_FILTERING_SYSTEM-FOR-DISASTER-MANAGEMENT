@@ -72,6 +72,6 @@ Feel free to fork this repo, suggest improvements, or report issues!
 📧 adityasarohaa55@gmail.com  
 🔗 linkedin.com/in/aditya-sarohaa-345336323  
 
----
-
-This README is **GitHub-ready** with installation steps, sample outputs, and future improvements. Let me know if you'd like any tweaks! 🚀
+📜 Copyright © 2024 Aditya Sarohaa.  
+🔹 This project is licensed under the MIT License – see the LICENSE file for details.  
+🔹 You are free to use and modify this code, but you **must give credit** to the original author.  
