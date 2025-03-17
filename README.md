@@ -72,9 +72,11 @@ Feel free to fork this repo, suggest improvements, or report issues!
 📧 adityasarohaa55@gmail.com  
 🔗 linkedin.com/in/aditya-sarohaa-345336323  
 
+
 📜 License & Usage
 
 📜 Copyright © 2024 Aditya Sarohaa
 
 🔹 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) License – see the LICENSE file for details.
+
 🔹 You may view this code, but you may NOT use, modify, distribute, or profit from it without explicit permission from the author.
